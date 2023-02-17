@@ -3,8 +3,8 @@ var data_nav = [
     {
         "title" : "证严法师",
         "childs" : [
-            {"link" : "jszen.html","title" : "证严法师生活智慧"},
-            {"link" : "master_intro.html","title" : "证严法师行愿半世纪"},
+            {"link" : "jszen.html","title" : "证严法师生活智慧", "pageid": 1, "pagename":"def"},
+            {"link" : "master_intro.html","title" : "证严法师行愿半世纪", "pageid": 2, "pagename":"def"},
             {"link" : "master-story.html","title" : "证严法师说故事"}
         ]
     },

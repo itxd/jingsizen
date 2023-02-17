@@ -71,33 +71,37 @@ body {
     overflow: hidden;
 }
 .art-box .hd {
-    padding: 60px;
+    padding: 1em 3em 2em;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     text-align: center;
 }
-.art-box .hd h2 {
+.art-box h2 {
     font-size: 22px;
+    line-height: 36px;
+}
+.art-box h3 {
+    font-size: 20px;
     line-height: 36px;
 }
 
 .art-box .art-banner {
-    padding: 0 0 20px;
+    padding: 0;
 }
 .art-box .art-banner img {
  width: 100%;
 }
 
-.video-list {
+.list-box {
     box-sizing: border-box;
     padding: 10px 30px;
 }
-.video-list .img {
+.list-box .img {
     position: relative;
     width: 100%;
     padding-top: 50%;
 }
-.video-list .img .play-btn {
+.list-box .img .play-btn {
     display: block;
     position: absolute!important;
     z-index: 100;
@@ -111,23 +115,27 @@ body {
     margin-left: -2rem;
     margin-top: -2rem;
 }
-.video-list .item {
+.list-box .item {
     /* border: 1px solid #ccc; */
     overflow: hidden;
     margin-bottom: 20px;
     border-radius: 5px;
     box-shadow: 0 1px 3px rgb(0 0 0 / 10%);
 }
-.video-list .item .title {
-    font-size: 22px;
+.list-box .item .title {
+    font-size: 18px;
     padding: 10px 20px;
-    height: 77px;
+    height: 64px;
     margin-bottom: 10px;
     -webkit-line-clamp: 2;
     display: -webkit-box;
     -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
+}
+.list-box.mp3GroupList1 .item .title {
+    height: 38px;
+    -webkit-line-clamp: 1;
 }
 
 
