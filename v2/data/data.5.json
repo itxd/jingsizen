@@ -1,0 +1,519 @@
+{
+    "title" : "三十七道品",
+    "desc" : "三十七道品，为梵语bodhi-pakşaka 之意译，又作菩提分、觉支，即为追求智慧，进入涅槃境界之三十七种修行方法。又称三十七觉支、三十七菩提分、三十七助道法、三十七品道法，为四圣谛中道谛的仔细开展，是佛教修行的基本内容，是大乘、小乘共修法门，不但小乘阿罗汉可依此修行，就是大乘菩萨也要依此道品修行,是趋向解脱、获得证悟的道路。循此三十七法而修，即可次第趋于菩提，故称为菩提分法。指四念住（处），四正勤，四如意足，五根，五力，七觉支，八正道。",
+    "headimg" : "http://jingsizen.com/img/master-jssutra.jpg",
+    "list" : {
+        "type" : "mp3GroupList1",
+        "info" : [{
+            "groupTitle": "三十七道品讲义 微信文章 1 -- 40",
+            "list": [{
+                "href": "https://mp.weixin.qq.com/s/pF1rOoQwDWh7LitCylyinQ",
+                "title": "三十七道品讲述-01：观身不净-1"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/lubkwqRVG7yIvj4mQPMdKw",
+                "title": "三十七道品讲述-02：观身不净-2"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/aCvd1uQNBPwCuQ4_6sF35Q",
+                "title": "三十七道品讲述-03：观受是苦-1"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/QDjod0AE14Iv80wxOo6y3w",
+                "title": "三十七道品讲述-04：观受是苦-2"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/z9XDdD8K6gkK7SPUcERUTQ",
+                "title": "三十七道品讲述-05：观心无常"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/1xsHTrasmbb0ayIQ_xsMoA",
+                "title": "三十七道品讲述-06：观法无我-1"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/ox55E0NXdH6eyWSA914ujA",
+                "title": "三十七道品讲述-07：观法无我-2 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/aSx5Da92w18MOCLubhrNIQ",
+                "title": "三十七道品讲述-08：观法无我-3"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/ZeP1rHhlV27nomYR0dRzBQ",
+                "title": "三十七道品讲述-09：观法无我-4"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/IxVv-7czBYOlsTjc5nhVDA",
+                "title": "三十七道品讲述-10：观法无我-5"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/lxji2H1yw3XFiBcdxWC1GA",
+                "title": "三十七道品讲述-11：四正勤"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/hboYkm6Nte9UxQrNJJZOGQ",
+                "title": "三十七道品讲述-12：四如意足"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/gb2D4awIiSIRMn_6RP7KSA",
+                "title": "三十七道品讲述-13：五根篇之一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/uCX8Nj_I46FiFSM_3ZmKUQ",
+                "title": "三十七道品讲述-14：五根篇之二 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/-42AiQkx0gYFq8W2pKVbYQ",
+                "title": "三十七道品讲述-15：信根"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/HsBjUy5QqQD7_QpdF-00SQ",
+                "title": "三十七道品讲述-16：精进根"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/BO2-x382SpWiU5O4XSY70A",
+                "title": "三十七道品讲述-17：念根"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/8F7N7HciW9FpE3mwr2YVSA",
+                "title": "三十七道品讲述-18：定根"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/mGWGGxMsOVPHYDGiuV1MTQ",
+                "title": "三十七道品讲述-19：慧根"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/7lVz774r3nSi4Jz9cLluRQ",
+                "title": "三十七道品讲述-20：慧根-2"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/tG4hjMX3_FUKjE8vrK1bSg",
+                "title": "三十七道品讲述-21：五力篇"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/SVm2lILZh1sw-WC2YvUlVw",
+                "title": "三十七道品讲述-22：五力篇2"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/HFnXbyc6mdIDlRg6qI2n6g",
+                "title": "三十七道品讲述-23：信力"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/Q6e9nhD0U7Z9mjVKxM-FYg",
+                "title": "三十七道品讲述-24：精进力 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/IIW6_52RCfGGtw5jSB-lug",
+                "title": "三十七道品讲述-25：精进力-2"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/6FhETQuF55JdJJFHDRonMw",
+                "title": "三十七道品讲述-26：念力"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/VciFTSYeJV-RrRJaIm_HlA",
+                "title": "三十七道品讲述-27：念力-2"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/PWAQ7vyNO2VAFy0KZX3zXA",
+                "title": "三十七道品讲述-28：定力-1 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/mRwcVMYByBGST37EYx6v0Q",
+                "title": "三十七道品讲述-29：定力-2 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/bSmBDmGKJwtgNganCVjlYw",
+                "title": "三十七道品讲述-30：慧力-1"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/yIK8tteb3EgfpVJrGBAF_Q",
+                "title": "三十七道品讲述-31：慧力-2 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/ZjyVn1wFTk5UXvtqNhLSwg",
+                "title": "三十七道品讲述-32：七觉支 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/At6zPy6Zai8vf3ogfFFdfQ",
+                "title": "三十七道品讲述-33：择法觉支"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/tCVcRvkZGhk5BiPt1i3IzQ",
+                "title": "三十七道品讲述-34：精进觉支-1 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/uF01y99b5R_7-d8XGMLwfg",
+                "title": "三十七道品讲述-35：精进觉支-2"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/qAf7Gf_Bsnq9JePRftV4mQ",
+                "title": "三十七道品讲述-36：精进觉支-3"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/2IljPk3_35FqujVgwMxDbA",
+                "title": "三十七道品讲述-37：正精进"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/kww6T5GG9pBPE1C0hKIE-Q",
+                "title": "三十七道品讲述-38：喜觉支-1"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/q-qamzzDF72f3AtPhJKHvg",
+                "title": "三十七道品讲述-39：喜觉支-2"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/KDbz1zBb2o-mW0IBhPdtoA",
+                "title": "三十七道品讲述-40：喜觉支-3"
+            }]
+        }, {
+            "groupTitle": "三十七道品讲义 微信文章 41 -- 80",
+            "list": [{
+                "href": "https://mp.weixin.qq.com/s/tGrGclf1pSzUBNUw4mZXfA",
+                "title": "三十七道品讲述-41：初觉支-1"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/8Wm3vQz4BfalAn1oNYCtgQ",
+                "title": "三十七道品讲述-42：除觉支-2"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/O3rmg_zdDGtEFLilNC-Zmg",
+                "title": "三十七道品讲述-43：舍觉支-1"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/zFiii6bYb1Ry4aGhoYl8kg",
+                "title": "三十七道品讲述-44：舍觉支-2 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/kRPSb7XRHVViSeJZh0jmCQ",
+                "title": "三十七道品讲述-45：定觉支-1 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/L94No2dWIutcSjUbrkdZOg",
+                "title": "三十七道品讲述-46：定觉支-2"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/OsXvOPkdyT7LdJnQRd1Nrg",
+                "title": "三十七道品讲述-47：念觉支-1"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/kbu0ewK9HRYD22dOa2kzpA",
+                "title": "三十七道品讲述-48：念觉支-2"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/BuP_sa3VrJ4cfO7jRL8ZxQ",
+                "title": "三十七道品讲述-49：念觉支-3"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/wCErFr-T3Bkz7pMBCmGwYA",
+                "title": "三十七道品讲述-50：七觉支 总结1"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/-mgTetOICVXHDsvnUmf4uw",
+                "title": "三十七道品讲述-51：七觉支 总结2"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/Dg7eHzACvg0mPBbKTHrMxQ",
+                "title": "三十七道品讲述-52：八正道篇之一 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/yQ2wT0S7HGQxM7O-fp3XKA",
+                "title": "三十七道品讲述-53：八正道篇之二 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/MGAwd-ZH7CDKlRJo-XYDsQ",
+                "title": "三十七道品讲述-54：正见-1 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/xED_zOxqXouX2zhw_dJbqw",
+                "title": "三十七道品讲述-55：正见-2 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/877ER2cA14TrC-HZueTrxg",
+                "title": "三十七道品讲述-56：正见-3 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/tF0e27EyjKvr-7jx3hETkw",
+                "title": "三十七道品讲述-57：正见-4 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/1MncHnayO69DMnHTBK77GQ",
+                "title": "三十七道品讲述-58：正见-5 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/2S_XOqrxRMcFO-pmNQVKng",
+                "title": "三十七道品讲述-59：正思维-1"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/-dZEwhCZnXFb_UjzfdUDZw",
+                "title": "三十七道品讲述-60：正思维-2"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/Lkql5T8wqWtA8bLhlcG5CA",
+                "title": "三十七道品讲述-61：正语 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/8NScssEC9UfP4cHGxS8efQ",
+                "title": "三十七道品讲述-62：正语-2 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/v93OOKpwtantaVDI9R6Zbg",
+                "title": "三十七道品讲述-63：正业 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/_p97miXnT8ilyZuvGMDBfQ",
+                "title": "三十七道品讲述-64：正业-2 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/TGz4MAQbWWj95GGGmpYWuQ",
+                "title": "三十七道品讲述-65：正命"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/M_QFuW8dj_12okb2u5Julw",
+                "title": "三十七道品讲述-66：正命-2"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/Hir39vQo06IbssiYoAmStQ",
+                "title": "三十七道品讲述-67：正命-3"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/twZgjpN0R9pc3nc8B3Zkqw",
+                "title": "三十七道品讲述-68：正命-4"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/mezxQMOMHREi28aGuMo0pA",
+                "title": "三十七道品讲述-69：正命-5"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/tLo6Jyif4nVv-vbNRR5wXA",
+                "title": "三十七道品讲述-70：正精进"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/8EXk13t2MRlVN_dRvs6Veg",
+                "title": "三十七道品讲述-71：正精进2"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/Fz9W8mMxbKBlNq4Ay9JyLg",
+                "title": "三十七道品讲述-72：正念"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/GAUZ01oTewdwW6Fn3rHR_g",
+                "title": "三十七道品讲述-73：正念2 数息观"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/v82nzXWP3r4rrM-Eij9Dew",
+                "title": "三十七道品讲述-74：正念3 多贪众生不净观"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/8fLpZrSfqzoKaPExjG5Pxg",
+                "title": "三十七道品讲述-75：正念4 多嗔众生慈悲观"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/wK_7ZBOSweQVcZ4-8DgcFw",
+                "title": "三十七道品讲述-76：正念5 愚痴众生因缘观"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/UafKWqjvVGz-kezWEUXbAw",
+                "title": "三十七道品讲述-77：正念 愚痴众生因缘观2"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/J2pIG01XRAddwt5qq7QN2w",
+                "title": "三十七道品讲述-78：正念 多障众生念佛观"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/kf0oP8PHrl7WLE8rOCnv9w",
+                "title": "三十七道品讲述-79：正定"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/dMWCkn9AQpTgn_4Rx1HBHw",
+                "title": "三十七道品讲述-80：万法本来无所住"
+            }]
+        }, {
+            "groupTitle": "证严法师 三十七道品讲义 音频 1 -- 10",
+            "list": [{
+                "title": "37道品-01",
+                "video": "audio/37ways/37ways01.mp3"
+            }, {
+                "title": "37道品-02",
+                "video": "audio/37ways/37ways02.mp3"
+            }, {
+                "title": "37道品-03",
+                "video": "audio/37ways/37ways03.mp3"
+            }, {
+                "title": "37道品-04",
+                "video": "audio/37ways/37ways04.mp3"
+            }, {
+                "title": "37道品-05",
+                "video": "audio/37ways/37ways05.mp3"
+            }, {
+                "title": "37道品-06",
+                "video": "audio/37ways/37ways06.mp3"
+            }, {
+                "title": "37道品-07",
+                "video": "audio/37ways/37ways07.mp3"
+            }, {
+                "title": "37道品-08",
+                "video": "audio/37ways/37ways08.mp3"
+            }, {
+                "title": "37道品-09",
+                "video": "audio/37ways/37ways09.mp3"
+            }, {
+                "title": "37道品-10",
+                "video": "audio/37ways/37ways10.mp3"
+            }]
+        }, {
+            "groupTitle": "证严法师 三十七道品讲义 音频 11 -- 20",
+            "list": [{
+                "title": "37道品-11",
+                "video": "audio/37ways/37waysbookonbook11.mp3"
+            }, {
+                "title": "37道品-12",
+                "video": "audio/37ways/37waysbookonbook12.mp3"
+            }, {
+                "title": "37道品-13",
+                "video": "audio/37ways/37waysbookonbook13.mp3"
+            }, {
+                "title": "37道品-14",
+                "video": "audio/37ways/37waysbookonbook14.mp3"
+            }, {
+                "title": "37道品-15",
+                "video": "audio/37ways/37waysbookonbook15.mp3"
+            }, {
+                "title": "37道品-16",
+                "video": "audio/37ways/37waysbookonbook16.mp3"
+            }, {
+                "title": "17道品-27",
+                "video": "audio/37ways/37waysbookonbook17.mp3"
+            }, {
+                "title": "37道品-18",
+                "video": "audio/37ways/37waysbookonbook18.mp3"
+            }, {
+                "title": "37道品-19",
+                "video": "audio/37ways/37waysbookonbook19.mp3"
+            }, {
+                "title": "37道品-20",
+                "video": "audio/37ways/37waysbookonbook20.mp3"
+            }]
+        }, {
+            "groupTitle": "证严法师 三十七道品讲义 音频 21 -- 30",
+            "list": [{
+                "title": "37道品-21",
+                "video": "audio/37ways/37waysbookonbook21.mp3"
+            }, {
+                "title": "37道品-22",
+                "video": "audio/37ways/37waysbookonbook22.mp3"
+            }, {
+                "title": "37道品-23",
+                "video": "audio/37ways/37waysbookonbook23.mp3"
+            }, {
+                "title": "37道品-24",
+                "video": "audio/37ways/37waysbookonbook24.mp3"
+            }, {
+                "title": "37道品-25",
+                "video": "audio/37ways/37waysbookonbook25.mp3"
+            }, {
+                "title": "37道品-26",
+                "video": "audio/37ways/37waysbookonbook26.mp3"
+            }, {
+                "title": "37道品-27",
+                "video": "audio/37ways/37waysbookonbook27.mp3"
+            }, {
+                "title": "37道品-28",
+                "video": "audio/37ways/37waysbookonbook28.mp3"
+            }, {
+                "title": "37道品-29",
+                "video": "audio/37ways/37waysbookonbook29.mp3"
+            }, {
+                "title": "37道品-30",
+                "video": "audio/37ways/37waysbookonbook30.mp3"
+            }]
+        }, {
+            "groupTitle": "证严法师 三十七道品讲义 音频 31 -- 40",
+            "list": [{
+                "title": "37道品-31",
+                "video": "audio/37ways/37waysbookonbook31.mp3"
+            }, {
+                "title": "37道品-32",
+                "video": "audio/37ways/37waysbookonbook32.mp3"
+            }, {
+                "title": "37道品-33",
+                "video": "audio/37ways/37waysbookonbook33.mp3"
+            }, {
+                "title": "37道品-34",
+                "video": "audio/37ways/37waysbookonbook34.mp3"
+            }, {
+                "title": "37道品-35",
+                "video": "audio/37ways/37waysbookonbook35.mp3"
+            }, {
+                "title": "37道品-36",
+                "video": "audio/37ways/37waysbookonbook36.mp3"
+            }, {
+                "title": "37道品-37",
+                "video": "audio/37ways/37waysbookonbook37.mp3"
+            }, {
+                "title": "37道品-38",
+                "video": "audio/37ways/37waysbookonbook38.mp3"
+            }, {
+                "title": "37道品-39",
+                "video": "audio/37ways/37waysbookonbook39.mp3"
+            }, {
+                "title": "37道品-40",
+                "video": "audio/37ways/37waysbookonbook40.mp3"
+            }]
+        }, {
+            "groupTitle": "证严法师 三十七道品讲义 音频 41 -- 50",
+            "list": [{
+                "title": "37道品-41",
+                "video": "audio/37ways/37waysbookonbook41.mp3"
+            }, {
+                "title": "37道品-42",
+                "video": "audio/37ways/37waysbookonbook42.mp3"
+            }, {
+                "title": "37道品-43",
+                "video": "audio/37ways/37waysbookonbook43.mp3"
+            }, {
+                "title": "37道品-44",
+                "video": "audio/37ways/37waysbookonbook44.mp3"
+            }, {
+                "title": "37道品-45",
+                "video": "audio/37ways/37waysbookonbook45.mp3"
+            }, {
+                "title": "37道品-46",
+                "video": "audio/37ways/37waysbookonbook46.mp3"
+            }, {
+                "title": "37道品-47",
+                "video": "audio/37ways/37waysbookonbook47.mp3"
+            }, {
+                "title": "37道品-48",
+                "video": "audio/37ways/37waysbookonbook48.mp3"
+            }, {
+                "title": "37道品-49",
+                "video": "audio/37ways/37waysbookonbook49.mp3"
+            }, {
+                "title": "37道品-50",
+                "video": "audio/37ways/37waysbookonbook50.mp3"
+            }]
+        }, {
+            "groupTitle": "证严法师 三十七道品讲义 音频 51 -- 60",
+            "list": [{
+                "title": "37道品-51",
+                "video": "audio/37ways/37waysbookonbook51.mp3"
+            }, {
+                "title": "37道品-52",
+                "video": "audio/37ways/37waysbookonbook52.mp3"
+            }, {
+                "title": "37道品-53",
+                "video": "audio/37ways/37waysbookonbook53.mp3"
+            }, {
+                "title": "37道品-54",
+                "video": "audio/37ways/37waysbookonbook54.mp3"
+            }, {
+                "title": "37道品-55",
+                "video": "audio/37ways/37waysbookonbook55.mp3"
+            }, {
+                "title": "37道品-56",
+                "video": "audio/37ways/37waysbookonbook56.mp3"
+            }, {
+                "title": "37道品-57",
+                "video": "audio/37ways/37waysbookonbook57.mp3"
+            }, {
+                "title": "37道品-58",
+                "video": "audio/37ways/37waysbookonbook58.mp3"
+            }, {
+                "title": "37道品-59",
+                "video": "audio/37ways/37waysbookonbook59.mp3"
+            }, {
+                "title": "37道品-60",
+                "video": "audio/37ways/37waysbookonbook60.mp3"
+            }]
+        }, {
+            "groupTitle": "证严法师 三十七道品讲义 音频 61 -- 70",
+            "list": [{
+                "title": "37道品-61",
+                "video": "audio/37ways/37waysbookonbook61.mp3"
+            }, {
+                "title": "37道品-62",
+                "video": "audio/37ways/37waysbookonbook62.mp3"
+            }, {
+                "title": "37道品-63",
+                "video": "audio/37ways/37waysbookonbook63.mp3"
+            }, {
+                "title": "37道品-64",
+                "video": "audio/37ways/37waysbookonbook64.mp3"
+            }, {
+                "title": "37道品-65",
+                "video": "audio/37ways/37waysbookonbook65.mp3"
+            }, {
+                "title": "37道品-66",
+                "video": "audio/37ways/37waysbookonbook66.mp3"
+            }, {
+                "title": "37道品-67",
+                "video": "audio/37ways/37waysbookonbook67.mp3"
+            }, {
+                "title": "37道品-68",
+                "video": "audio/37ways/37waysbookonbook68.mp3"
+            }, {
+                "title": "37道品-69",
+                "video": "audio/37ways/37waysbookonbook69.mp3"
+            }, {
+                "title": "37道品-70",
+                "video": "audio/37ways/37waysbookonbook70.mp3"
+            }]
+        }, {
+            "groupTitle": "证严法师 三十七道品讲义 音频 71 -- 80",
+            "list": [{
+                "title": "37道品-71",
+                "video": "audio/37ways/37waysbookonbook71.mp3"
+            }, {
+                "title": "37道品-72",
+                "video": "audio/37ways/37waysbookonbook72.mp3"
+            }, {
+                "title": "37道品-73",
+                "video": "audio/37ways/37waysbookonbook73.mp3"
+            }, {
+                "title": "37道品-74",
+                "video": "audio/37ways/37waysbookonbook74.mp3"
+            }, {
+                "title": "37道品-75",
+                "video": "audio/37ways/37waysbookonbook75.mp3"
+            }, {
+                "title": "37道品-76",
+                "video": "audio/37ways/37waysbookonbook76.mp3"
+            }, {
+                "title": "37道品-77",
+                "video": "audio/37ways/37waysbookonbook77.mp3"
+            }, {
+                "title": "37道品-78",
+                "video": "audio/37ways/37waysbookonbook78.mp3"
+            }, {
+                "title": "37道品-79",
+                "video": "audio/37ways/37waysbookonbook79.mp3"
+            }, {
+                "title": "37道品-80",
+                "video": "audio/37ways/37waysbookonbook80.mp3"
+            }]
+        }]
+    }
+}

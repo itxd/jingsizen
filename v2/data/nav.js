@@ -5,20 +5,20 @@ var data_nav = [
         "childs" : [
             {"link" : "jszen.html","title" : "证严法师生活智慧", "pageid": 1, "pagename":"def"},
             {"link" : "master_intro.html","title" : "证严法师行愿半世纪", "pageid": 2, "pagename":"def"},
-            {"link" : "master-story.html","title" : "证严法师说故事"}
+            {"link" : "master-story.html","title" : "证严法师说故事", "pageid": 3, "pagename":"def"}
         ]
     },
     {
         "title" : "静思法脉",
         "childs" : [
-            {"link" : "sutra_Innumerable.html","title" : "无量义经"},
-            {"link" : "sutra_37ways.html","title" : "三十七道品"},
-            {"link" : "sutra_med1.html","title" : "药师经 上"},
-            {"link" : "sutra_med2.html","title" : "药师经 下"},
-            {"link" : "sutra_8Insights.html","title" : "八大人觉经"},
-            {"link" : "sutra_dizang1.html","title" : "地藏经 上"},
-            {"link" : "sutra_dizang2.html","title" : "地藏经 下"},
-            {"link" : "sutra_parents.html","title" : "父母恩重难报经"}
+            {"link" : "sutra_Innumerable.html","title" : "无量义经", "pageid": 4, "pagename":"def"},
+            {"link" : "sutra_37ways.html","title" : "三十七道品", "pageid": 5, "pagename":"def"},
+            {"link" : "sutra_med1.html","title" : "药师经 上", "pageid": 6, "pagename":"def"},
+            {"link" : "sutra_med2.html","title" : "药师经 下", "pageid": 7, "pagename":"def"},
+            {"link" : "sutra_8Insights.html","title" : "八大人觉经", "pageid": 8, "pagename":"def"},
+            {"link" : "sutra_dizang1.html","title" : "地藏经 上", "pageid": 9, "pagename":"def"},
+            {"link" : "sutra_dizang2.html","title" : "地藏经 下", "pageid": 10, "pagename":"def"},
+            {"link" : "sutra_parents.html","title" : "父母恩重难报经", "pageid": 11, "pagename":"def"}
         ]
     },
     {
