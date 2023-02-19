@@ -7,9 +7,13 @@
     <link rel="canonical" href="http://JingSiZen.com/" />
       <title>静心思惟</title>
 	<meta name="description" content="静心思惟">
+    <link rel="icon" href="img/favicon.ico">
+
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/modern-business.css" rel="stylesheet">
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <link href="lib/videojs/css/video-js.css" rel="stylesheet" />
 
     <link href="css/main.css?v=5" rel="stylesheet">
 </head>
@@ -35,70 +39,66 @@
             </div>
 
             <div class="list-box" data-id="list">
-                <!-- <div class="col-sm-12">
-                    <h3>《行愿半世纪：证严法师与慈济》 音频 1 -- 10</h3>
-                </div>
-
-                <div class="col-sm-6 col-md-6">
-                    <div class="item">
-                        <div class="title" data-type="mp4" data-src="http://tcmaster.daai.tv/answerstolifeq/盤點生命價值-為自己按讚.mp4">
-                            <i class="fa fa-play-circle-o"></i>盤點生命價值-為自己按讚盤
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-6">
-                    <div class="item">
-                        <div class="title" data-type="mp4" data-src="http://tcmaster.daai.tv/answerstolifeq/盤點生命價值-為自己按讚.mp4">
-                            <i class="fa fa-play-circle-o"></i>盤點生命價值-為自己按讚盤點生命價值-為自己按讚盤點生命價值-為自己按讚
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-6">
-                    <div class="item">
-                        <div class="title" data-type="mp4" data-src="http://tcmaster.daai.tv/answerstolifeq/盤點生命價值-為自己按讚.mp4">
-                            <i class="fa fa-play-circle-o"></i>盤點生命價值-為自己按讚盤點生命價值-為自己按讚盤點生命價值-為自己按讚
-                        </div>
-                    </div>
-                </div> -->
-                <!-- 
-                <div class="col-sm-6 col-md-4">
-                    <div class="item">
-                        <div class="img" data-type="mp4" data-src="http://tcmaster.daai.tv/answerstolifeq/盤點生命價值-為自己按讚.mp4" style="background-image: url(http://tcmaster.daai.tv/wp-content/uploads/2019/10/%E5%BA%8F%E5%93%813-1%E6%B3%95%E8%8F%AF%E5%85%AD%E7%91%9E%E5%BA%8F%E4%B8%80-1280x768.jpg);">
-                            <div class="play-btn"><i class="fa fa-play-circle-o"></i></div>
-                        </div>
-                        <div class="title">盤點生命價值-為自己按讚</div>
-                    </div>
-                </div><div class="col-sm-6 col-md-4">
-                    <div class="item">
-                        <div class="img" data-type="mp4" data-src="http://tcmaster.daai.tv/answerstolifeq/盤點生命價值-為自己按讚.mp4" style="background-image: url(http://tcmaster.daai.tv/wp-content/uploads/2019/10/%E5%BA%8F%E5%93%813-1%E6%B3%95%E8%8F%AF%E5%85%AD%E7%91%9E%E5%BA%8F%E4%B8%80-1280x768.jpg);">
-                            <div class="play-btn"><i class="fa fa-play-circle-o"></i></div>
-                        </div>
-                        <div class="title">盤點生命價值-為自己按讚盤點生命價值-為自己按讚盤點生命價值-為自己按讚</div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <div class="item">
-                        <div class="img" data-type="mp4" data-src="http://tcmaster.daai.tv/answerstolifeq/盤點生命價值-為自己按讚.mp4" style="background-image: url(http://tcmaster.daai.tv/wp-content/uploads/2019/10/%E5%BA%8F%E5%93%813-1%E6%B3%95%E8%8F%AF%E5%85%AD%E7%91%9E%E5%BA%8F%E4%B8%80-1280x768.jpg);">
-                            <div class="play-btn"><i class="fa fa-play-circle-o"></i></div>
-                        </div>
-                        <div class="title">盤點生命價值-為自己按讚</div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <div class="item">
-                        <div class="img" data-type="mp4" data-src="http://tcmaster.daai.tv/answerstolifeq/盤點生命價值-為自己按讚.mp4" style="background-image: url(http://tcmaster.daai.tv/wp-content/uploads/2019/10/%E5%BA%8F%E5%93%813-1%E6%B3%95%E8%8F%AF%E5%85%AD%E7%91%9E%E5%BA%8F%E4%B8%80-1280x768.jpg);">
-                            <div class="play-btn"><i class="fa fa-play-circle-o"></i></div>
-                        </div>
-                        <div class="title">盤點生命價值-為自己按讚</div>
-                    </div>
-                </div> -->
-            </div>
-
-            <div class="ft">
-
+                
             </div>
 
         </article>
+
+        <div class="video-show">
+            <div class="mode"></div>
+            <div class="info">
+                <video id="myvideo" class="video-js vjs-default-skin" controls width="1600" height="900" ></video>
+                <audio id="myaudio" class="video-js vjs-default-skin" controls width="1600" height="900" ></audio>
+            </div>
+        </div>
+        <style>
+            .video-show {
+                display: none;
+                position: fixed;
+                left: 0;
+                right: 0;
+                top: 0;
+                bottom: 0;
+                z-index: 9999;
+            }
+            .video-show .mode {
+                width: 100%;
+                height: 100%;
+                background: rgba(0,0,0,0.8);
+                z-index: 1;
+            }
+            .video-show .info {
+                position: absolute;
+                left: 50%;
+                top: 50%;
+                transform: translate(-50%, -50%);
+                /* background: #fff; */
+                /* border-radius: 10px; */
+                /* padding: 10px; */
+            }
+            .video-show .video-js {
+                max-width: 80vw;
+                max-height: 45vw;
+            }
+
+            /* mp3 的样式 */
+            .video-show.mp3 {
+                top: auto;
+                /* height: 60px; */
+                height: 30px;
+                overflow: hidden;
+            }
+            .video-show.mp3 .info {
+                top: auto;
+                left: 0;
+                bottom: 0;
+                transform: none;
+            }
+            .video-show.mp3 .video-js {
+                width: 100vw;
+                max-width: 100%;
+            }
+        </style>
 
 
     </div>
@@ -114,9 +114,14 @@
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
 
+    <script src="lib/videojs/js/video.min.js"></script>
+    <script src="lib/videojs/js/videojs-playlist.min.js"></script>
+
+
 
     <script>
         (function ($) {
+
             $.getUrlParam = function (name) {
                 var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
                 var r = window.location.search.substr(1).match(reg);
@@ -125,11 +130,8 @@
 
             // 根据id读数据
             let id  = $.getUrlParam('id');
-            console.log(id);
+            // console.log(id);
             if (id > 0) {
-                // $.getJSON("data/data."+id+".json", function(data) {
-                //     console.log(data);
-                // })
                 $.ajax({
                     type: "get",
                     url: "data/data."+id+".json",
@@ -152,6 +154,13 @@
                 Location.href('/');
             }
 
+
+
+            var videoList = [];
+            var player = {};
+            var playIndex = 0;
+
+
             function insertData(data) {
                 data.title && (document.title = data.title); 
                 data.title && $('meta[name="description"]').attr('content', data.title);
@@ -164,40 +173,130 @@
                     if (data.list.type == "videoList1") {
                         $('[data-id="list"]').addClass('row videoList1');
                         let list_html = '';
+                        let i = 0;
                         data.list.info.forEach(element => {
                             list_html += '\
                             <div class="col-sm-6 col-md-4"><div class="item">\
-                                <div class="img" data-type="mp4" data-src="'+element.video+'" style="background-image: url('+element.img+');"><div class="play-btn"><i class="fa fa-play-circle-o"></i></div></div>\
+                                <div class="img to-play" data-type="mp4" data-i="'+i+'" style="background-image: url('+element.img+');"><div class="play-btn"><i class="fa fa-play-circle-o"></i></div></div>\
                                 <div class="title">'+element.title+'</div>\
                             </div></div>\
                             ';
+
+                            videoList.push({
+                                sources: [{
+                                    src: element.video,
+                                    type: 'video/mp4'
+                                }],
+                                poster: element.img
+                            });
+                            i++;
+                            
                         });
 
                         $('[data-id="list"]').append(list_html)
+
+                        // 视频播放器
+                        if (videoList.length > 0) {
+                            createPlayer('video');
+                            
+                        }
                         
                     } else if (data.list.type == "mp3GroupList1") {
                         $('[data-id="list"]').addClass('row mp3GroupList1');
                         let list_html = '';
+                        let i = 0;
                         data.list.info.forEach(element => {
                             list_html += '<div class="col-sm-12"><h3>'+element.groupTitle+'</h3></div>';
 
                             element.list.forEach(element2 => {
                             list_html += '\
                                 <div class="col-sm-6 col-md-6"><div class="item">\
-                                    <div class="title" data-type="mp3" data-src="'+element2.video+'">\
-                                        <i class="fa fa-play-circle-o"></i>&nbsp;'+element2.title+'\
+                                    <div class="title to-play" data-type="mp3" data-i="'+i+'">\
+                                        <i class="fa fa-music"></i>&nbsp;'+element2.title+'\
                                     </div>\
                                 </div></div>';
+                            
+                                videoList.push({
+                                    sources: [{
+                                        src: element2.video,
+                                        type: 'video/mp4'
+                                    }],
+                                    poster: element2.img
+                                });
+                                i++;
                             });
                         });
 
                         $('[data-id="list"]').html(list_html)
+
+
+                        // 音频播放器
+                        if (videoList.length > 0) {
+                            createPlayer('audio');
+                            
+                        }
                         
                     }
+
                     
                 }
+
+
             }
 
+            // 创建播放器
+            function createPlayer(type) {
+                if (type == 'video') {
+                    $('#myaudio').hide();
+                    player = videojs(document.querySelector('#myvideo'), { inactivityTimeout: 0 });
+                } else if (type == 'audio') {
+                    $('#myvideo').hide();
+                    player = videojs(document.querySelector('#myaudio'), { inactivityTimeout: 0 });
+                }
+
+                try {
+                player.volume(0);
+                // 音量调整
+                player.volume(0.5);
+                } catch (e) {}
+
+                player.playlist(videoList);
+
+                player.on('ended', function () {
+                    player.playlist.next();
+                    // player.play();
+                })
+
+            }
+
+            // mp3播放
+            $(document).on('click', '[data-type="mp3"]', function() {
+                // $('[data-type="mp3"]').removeClass('active');
+                // $(this).addClass('avtive');
+                $('.video-show').attr('class','video-show');
+                $('.video-show').addClass('mp3');
+
+                playIndex = parseInt($(this).attr("data-i"));
+                player.playlist.currentItem(playIndex)
+                $('.video-show').show();
+                player.play();
+
+            });
+
+
+            // mp4播放
+            $(document).on('click', '[data-type="mp4"]', function() {
+                playIndex = parseInt($(this).attr("data-i"));
+                // console.log(player, index);
+                player.playlist.currentItem(playIndex)
+                $('.video-show').show();
+                player.play();
+            });
+            // 模态窗消失时，关闭视频    
+            $(document).on('click', '.video-show .mode', function() {
+                $('.video-show').hide();
+                player.pause();
+            });
 
         })(jQuery);
     </script>

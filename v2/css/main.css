@@ -137,6 +137,11 @@ body {
     height: 38px;
     -webkit-line-clamp: 1;
 }
+.list-box .to-play {
+    cursor: pointer;
+}
+
+
 
 
 @media (min-width: 768px) {
