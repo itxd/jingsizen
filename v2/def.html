@@ -85,7 +85,7 @@
             .video-show.mp3 {
                 top: auto;
                 /* height: 60px; */
-                height: 30px;
+                height: 60px;
                 overflow: hidden;
             }
             .video-show.mp3 .info {
@@ -209,21 +209,31 @@
                             list_html += '<div class="col-sm-12"><h3>'+element.groupTitle+'</h3></div>';
 
                             element.list.forEach(element2 => {
-                            list_html += '\
-                                <div class="col-sm-6 col-md-6"><div class="item">\
-                                    <div class="title to-play" data-type="mp3" data-i="'+i+'">\
-                                        <i class="fa fa-music"></i>&nbsp;'+element2.title+'\
-                                    </div>\
-                                </div></div>';
-                            
-                                videoList.push({
-                                    sources: [{
-                                        src: element2.video,
-                                        type: 'video/mp4'
-                                    }],
-                                    poster: element2.img
-                                });
-                                i++;
+
+                                if (element2.href) {
+                                    list_html += '\
+                                    <div class="col-sm-6 col-md-6"><div class="item">\
+                                        <div class="title to-play" data-type="href" data-href="'+element2.href+'">\
+                                            <i class="fa fa-link"></i>&nbsp;'+element2.title+'\
+                                        </div>\
+                                    </div></div>';
+                                } else {
+                                    list_html += '\
+                                    <div class="col-sm-6 col-md-6"><div class="item">\
+                                        <div class="title to-play" data-type="mp3" data-i="'+i+'">\
+                                            <i class="fa fa-music"></i>&nbsp;'+element2.title+'\
+                                        </div>\
+                                    </div></div>';
+                                
+                                    videoList.push({
+                                        sources: [{
+                                            src: element2.video,
+                                            type: 'video/mp4'
+                                        }],
+                                        poster: element2.img
+                                    });
+                                    i++;
+                                }
                             });
                         });
 
@@ -292,6 +302,14 @@
                 $('.video-show').show();
                 player.play();
             });
+
+            // link跳转
+            $(document).on('click', '[data-type="href"]', function() {
+                let href = $(this).attr("data-href");
+                console.log(href);
+                if (href) window.open(href);
+            });
+
             // 模态窗消失时，关闭视频    
             $(document).on('click', '.video-show .mode', function() {
                 $('.video-show').hide();
@@ -299,6 +317,9 @@
             });
 
         })(jQuery);
+
+        const a = JSON. parse (localStorage. getItem("domainInfo"));
+        console.log(a);
     </script>
 
 </body>

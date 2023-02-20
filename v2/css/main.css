@@ -142,6 +142,19 @@ body {
 }
 
 
+.video-js.vjs-audio .vjs-control-bar {
+    height: 6em;
+}
+.vjs-audio .vjs-button > .vjs-icon-placeholder:before {
+    font-size: 2.3em;
+    line-height: 2.5;
+}
+.video-js.vjs-audio .vjs-volume-bar {
+    margin: 2.95em 0.45em;
+}
+.video-js.vjs-audio .vjs-time-control {
+    line-height: 6em;
+}
 
 
 @media (min-width: 768px) {
