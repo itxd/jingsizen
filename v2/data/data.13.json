@@ -1,0 +1,531 @@
+{
+    "title" : "静思妙莲华",
+    "desc" : "<div style='text-align:left'>自古以来佛教界流传“开悟愣严，成佛法华”。《法华经》全称为《妙法莲华经》， 妙法--意为所说之法微妙无上；莲华--比喻经典之洁净完美。 《法华经》是佛陀释迦牟尼晚年说教，宣讲内容至高无上，明示不分贫富贵贱、人人皆可成佛。是大乘经典之王，它为佛教信徒之间协调共存提供了基础。<br><br><a href='https://mp.weixin.qq.com/s/RQcHeLKlHcGvye4OxDMOkw' target='_blank'> ===> 点此了解更多《静思妙莲华》简介 <=== </a></div>",
+    "headimg" : "http://jingsizen.com/img/sutra-medpic.jpg",
+    "list" : {
+        "type" : "mp3GroupList1",
+        "info" : [{
+            "groupTitle": "静思妙莲华 01序品 15 -- 79",
+            "list": [{
+                "href": "https://mp.weixin.qq.com/s/NDu9tGvh8zJUJbFEd9tFQg",
+                "title": "静思妙莲华-15-遵佛遗教"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/gxKpu-cNIN-uF8edc1gFKg",
+                "title": "静思妙莲华-16-结集佛教经典"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/TOF92PJQds1KDwBppL6k6g",
+                "title": "静思妙莲华-17-阿难尊者断惑因缘"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/5PGcrS3UDm5vyyv4A1x0dw",
+                "title": "静思妙莲华-18-如是我闻"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/JXBHSCgHYTJIJcSclspcpQ",
+                "title": "静思妙莲华-19-重视因缘会合"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/GypvTVk9QKay7vEH3_bvGA",
+                "title": "静思妙莲华-20-佛法大海 信能为入"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/V5q-ZdlDSGeuFfEK9sW2Eg",
+                "title": "静思妙莲华-21-真如性显 尘去光现"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/h1qox1WBS0oC53AZsZdOzA",
+                "title": "静思妙莲华-22-闻成就 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/u-uZkron5XR6FdjQwhwzUQ",
+                "title": "静思妙莲华-23-真如实相的妙法 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/XJbsBy7XiItaSq1pJJPgxA",
+                "title": "静思妙莲华-24-时成就 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/tfft_LHM4Qz0_6kwmKJjWg",
+                "title": "静思妙莲华-25-主成就"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/dgYC8y9R39hxzwEwxWQy0g",
+                "title": "《静思妙莲华》26-众生皆有佛性 - 序品第一 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/JpsxKwM8L7Ymo2tUo12VEw",
+                "title": "《静思妙莲华》27-王舍城的由来(一) -序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/qkzBAX3r3TyhHKvu9psidg",
+                "title": "《静思妙莲华》28-王舍城的由来(二)-序品第一 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/fRKDiA_GbsIupfziCzt8aw",
+                "title": "《静思妙莲华》29-王舍城的由来(三)-序品第一 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/cFsrVO-NTZ_fndWOUCWjhg",
+                "title": "《静思妙莲华》30-受大教 修大法 行大道-序品第一 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/3V7F9rMRVw7cqoLJLTJWRA",
+                "title": "《静思妙莲华》31-转烦恼为菩提-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/UlL-31DWIaAi-kizKFYqPg",
+                "title": "《静思妙莲华》32-破恶 怖魔 乞士-序品第一  "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/IjNnaqNWWyf-gzbOX9phUg",
+                "title": "《静思妙莲华》33-志为福田僧-序品第一 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/LKhRwkHZF0jCjNmTvciMqQ",
+                "title": "《静思妙莲华》34-会道法华净菩提-序品第一 "
+            }, {
+                "href": "https://mp.weixin.qq.com/s/ucMTsy0pXz368xGeEAqCBA",
+                "title": "《静思妙莲华》35-戒定慧破见思惑-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/tyPL7Y3qcPibDCMyyfosfA",
+                "title": "《静思妙莲华》36-内心自治去无明-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/Tm-5dYyPy9RZPFi1Ddt7MQ",
+                "title": "《静思妙莲华》37-莫让痴念开诸漏门-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/37Jl360cgIoazF04yjwulw",
+                "title": "《静思妙莲华》38-忖已德行 忖已利他-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/xyGvcSHI3dr_v6ievnJOWg",
+                "title": "《静思妙莲华》39-尽诸有结 因果尽亡-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/oSBtwdFQb8U0WowoYhs3FA",
+                "title": "《静思妙莲华》40-自利利他 心得自在-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/lMAO4Rmv7XTGve3WWjQg0w",
+                "title": "《静思妙莲华》41-真俗二谛-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/nR6cDsb-OPAoHBifH9EERA",
+                "title": "《静思妙莲华》42-僧宝之始-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/Z-PGeX-AbZnwx99EUbeOgA",
+                "title": "《静思妙莲华》43-摩诃迦叶尊者-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/SkOLRg1TShjcUPF0JiaqGQ",
+                "title": "《静思妙莲华》44-三迦叶尊者-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/X_TQgPRr3XQ5uZ-Osm96Nw",
+                "title": "《静思妙莲华》45-舍利弗 目犍连尊者-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/lR2R-lBeYscJOh4CkFcPQA",
+                "title": "《静思妙莲华》46-摩诃迦旃延 阿㝹楼驮-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/Elfsc8r2ODkqeCyRgYlFzQ",
+                "title": "《静思妙莲华》47-劫宾那 憍梵波提-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/6qD1H4c0lCG5tUPLa3AB3w",
+                "title": "《静思妙莲华》48-离婆多 毕陵伽婆蹉-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/5OgcDW07PYMkb5Nip-PlCQ",
+                "title": "《静思妙莲华》49-薄拘罗 摩诃拘絺罗-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/2m1f0fqS8p-ZY7Olx45gHQ",
+                "title": "《静思妙莲华》50-牧牛难陀 孙陀罗难陀-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/HCdIWMWwa_NpuKCTb6g9gw",
+                "title": "《静思妙莲华》51-富楼那弥多罗尼子-序品一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/Cn4m23peHT5RB01lTGayFA",
+                "title": "《静思妙莲华》52-须菩提与阿难尊者-序品"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/HntltKhj2J8SqJf0q1289Q",
+                "title": "《静思妙莲华》53-佛子罗睺罗-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/-NMzmtc-HJR2itmAo-5U3w",
+                "title": "《静思妙莲华》54-修习圆满戒定慧-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/wUdZr7FJk92NEl03g81jxw",
+                "title": "《静思妙莲华》55-一心求道 拥护佛法-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/CAtKBD-ZDpF5TTIoDWdF3g",
+                "title": "《静思妙莲华》56-恒觉不退菩提心-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/XKH1Rdcz7wS5PquNcOv3EQ",
+                "title": "《静思妙莲华》57-菩萨宏愿遍十方-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/Okg82pLBJOEaqPjAqaI03w",
+                "title": "《静思妙莲华》58-大慈如云遍正行道-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/2ydJSGCwgwpq-mNDrQ-eEw",
+                "title": "《静思妙莲华》59-发心修行不退转-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/8Ww85d5caj2SJESDaQcLVw",
+                "title": "《静思妙莲华》60-四无碍辩才-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/IJyOjOKy-c--qTjtLdUu7w",
+                "title": "《静思妙莲华》61-于诸佛所 植众德本-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/K67mxyF733kWhmNJPp4Ogg",
+                "title": "《静思妙莲华》62-以慈修身 善入佛慧-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/KKg_kA1HuiNUs_oXbKwyfg",
+                "title": "《静思妙莲华》63-菩萨度生觉有情-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/YgvftKyQS88Ad3n0asoNVg",
+                "title": "《静思妙莲华》64-启慈用慧 悲智双运-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/XrUaGbzOlwAA9sOVAsVpaw",
+                "title": "《静思妙莲华》65-菩萨悲智双运-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/YPRS0VVl6SOR28GEdjXkfg",
+                "title": "《静思妙莲华》66-持弘誓愿 无乐不与-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/ymB6Px6dN12_5xkQ7mZq4g",
+                "title": "《静思妙莲华》67-入佛门中学正觉道-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/WdVlZmAlJ06rptxTaYd3XA",
+                "title": "《静思妙莲华》68-法之传世 慈育万有-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/N2ngBGFVDvrsZ62xToeYsQ",
+                "title": "《静思妙莲华》69-觉有情者-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/nY498ls8hJxMeZ1LvZ1nOw",
+                "title": "《静思妙莲华》70-启机请法 闻教当机觉有情者-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/pP1jXlIlJack4eo232XwMw",
+                "title": "《静思妙莲华》71-佛说无量大乘之法-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/j5blequWuhOwoxcukBYLkg",
+                "title": "《静思妙莲华》72-入于无量义处三昧-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/xgNlgWmTv8FEbktFFOLj5Q",
+                "title": "《静思妙莲华》73-适悦诸佛本怀 -序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/rW5y-VN_wVyD7WOCRT8k0A",
+                "title": "《静思妙莲华》74-悲智同体-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/yjBwMbW3iKOkFoexyp5bLQ",
+                "title": "《静思妙莲华》75-说法因缘不思议 -序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/hAv4yYlOlHFZLlC254rfDw",
+                "title": "《静思妙莲华》76-佛光普照心灵之光-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/GYZufNee25UEeq_3CD8rMQ",
+                "title": "《静思妙莲华》77-心镜光明彻三界-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/L646AJkIB9uNGlOLJ4HEWg",
+                "title": "《静思妙莲华》78-佛光照映说法娑婆-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/J_c2iCNoUD6kQMMTKMoq7A",
+                "title": "《静思妙莲华》79-菩萨悲智 应机传法-序品第一"
+            }]
+        }, {
+            "groupTitle": "静思妙莲华 01序品 80 -- 150",
+            "list": [{
+                "href": "https://mp.weixin.qq.com/s/FAfBPv2rzZTfhYakznnfjQ",
+                "title": "《静思妙莲华》80-心光遍照万八千-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/IUEIJfX7zA0lusisDzlSCA",
+                "title": "《静思妙莲华》81-隐明示暗 鼓舞人心-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/bWt0Hb31h1eQnZ74H5NvRA",
+                "title": "《静思妙莲华》82-诸佛菩萨显迹人间-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/P5lq2pqbnZaXDzx5rs95qw",
+                "title": "《静思妙莲华》83-心静入法循善缘-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/sIXU6BQAfekhhR8nnVIFuQ",
+                "title": "《静思妙莲华》84-佛畅本怀度无边-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/VlvOR8wSTZ1k0_YyL5pCNw",
+                "title": "《静思妙莲华》85-回归本源清净心-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/N2m7Zwocz8zikpLMe0iHmA",
+                "title": "《静思妙莲华》86-了悟四谛勤修福德-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/88ud3IFhSfN7HDX_pDH5mA",
+                "title": "《静思妙莲华》87-知苦灭苦 修行于道-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/qb6qwy1qQukfvGGYutgsMw",
+                "title": "《静思妙莲华》88-解苦灭集求于道-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/vvyNSZ67apXxXuwZFNeDoQ",
+                "title": "《静思妙莲华》89-世间十大病箭-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/sMs03Rs7eJDG02h84V5VQA",
+                "title": "《静思妙莲华》90-欢喜布施无所着-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/4l2sEwG_TQkAQW0_RQol3A",
+                "title": "《静思妙莲华》91-持戒为入道因缘-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/CqzzqSbobE6LdabKbRHPMA",
+                "title": "《静思妙莲华》92-入道之因缘-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/MyKcA2D-enHRUWfMBiDnkw",
+                "title": "《静思妙莲华》93-照见本性心地风光-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/GjCD4sC12FtzmruM-YnEBw",
+                "title": "《静思妙莲华》94-菩萨六度万行-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/FxplKyoD-I9w_BCBEdGZUw",
+                "title": "《静思妙莲华》95-般若净慧回归本性-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/RJ81LH2tOatBn-CC0Ie1iA",
+                "title": "《静思妙莲华》96-安住道心不动摇-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/oPTzzGZrrK98-61F78xsUA",
+                "title": "《静思妙莲华》97-佛心智慧人人本具-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/LBigRQc0MbjMVqmMouSrVQ",
+                "title": "《静思妙莲华》98-佛心本怀妙谛深奥-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/qSS-9X6sCLj5p9RejKbk2w",
+                "title": "《静思妙莲华》99-佛法如雨露-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/i3upL8CEfM7eAYDbCnEzew",
+                "title": "《静思妙莲华》100-深入法海浩瀚中-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/Z2uHLf5njQ-MUVnb2KjyMA",
+                "title": "《静思妙莲华》101-法用于大用行于大用-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/XV1CdVVXSEG2VcEsmfRPKw",
+                "title": "《静思妙莲华》102-佛陀现光欲说大法-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/VxSMtHYHsHmkKOm1cLo7jQ",
+                "title": "《静思妙莲华》103-生佛事相 始终如一-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/xlXnMYQnzhmX0S6ynbDPiA",
+                "title": "《静思妙莲华》104-意存宽纯智明如镜-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/ne-I1BiDtZ6MmrHjF5YoTw",
+                "title": "《静思妙莲华》105-佛之大悲心为因-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/R4kJMunu6lqdBoXMYik9gA",
+                "title": "《静思妙莲华》106-立愿传佛律仪-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/qsUUNSn5uB-H7fvF4_VC1w",
+                "title": "《静思妙莲华》107-启发诚心信大法-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/39-YjSmFBxJfxQUzhCZC1Q",
+                "title": "《静思妙莲华》108-日月灯明如来-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/EwhvYUIra8xhTdf5-1TSjg",
+                "title": "《静思妙莲华》109-如来藏识人人本具-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/3ypKI-KIW4kIAAVcoD6Jnw",
+                "title": "《静思妙莲华》110-佛佛道同 导迷至觉-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/04HU8xq5Ffp8bwi5byMXwg",
+                "title": "《静思妙莲华》111-三明具足-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/OVITM6Owe_ivNJpAn06muA",
+                "title": "《静思妙莲华》112-佛德善入无量世界-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/ioVOiS8sUowIn7C0UQZdOQ",
+                "title": "《静思妙莲华》113-佛德普令众生成菩提－序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/hvS7vhp3lsOwwFiBzjyz0g",
+                "title": "《静思妙莲华》114-十德具足－序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/tQX2cdH3wTnQYw_HoCFE3w",
+                "title": "《静思妙莲华》115-能仁定慧悲智双运－序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/PdtOmyjcwv-5qpjjL3PBtw",
+                "title": "《静思妙莲华》116-其义深远其语巧妙-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/LWCLaCnOU99QgP0J5C6lng",
+                "title": "《静思妙莲华》117-行于中道-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/G8xzKeEPgalDqSQuRXHe5A",
+                "title": "《静思妙莲华》118-应机逗教演说正法-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/APZe7E_hbUSZk3ECAKwwTA",
+                "title": "《静思妙莲华》119-十二因缘法-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/27ODfzZPUONTV_GYmR187w",
+                "title": "《静思妙莲华》120-随顺机宜说三乘法 -序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/lgmM11vkxHBDTvIN2nqmkA",
+                "title": "《静思妙莲华》121-行于大菩提道-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/dTHRQY2LfI7aVMgOyJS3qQ",
+                "title": "《静思妙莲华》122-依四念处戒德为师-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/H6bthkeNbdLcR9v2zSzBZA",
+                "title": "《静思妙莲华》123-万法心王 人人本具-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/HMkD2njaG5T9EZ_sL1CYYA",
+                "title": "《静思妙莲华》124-日月灯明佛之子-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/wZP0dP_I4Uh3wyFbWQP8vQ",
+                "title": "《静思妙莲华》125-八王子-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/m38ybh3Sokn5I3fVP0Bbeg",
+                "title": "《静思妙莲华》126-八识转染成净-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/gmkFWad_amLfHjhc0xr9cQ",
+                "title": "《静思妙莲华》127-回归如来藏心之妙用-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/-sOePWoVcDMKLdQB_BrKZQ",
+                "title": "《静思妙莲华》128-人人本具日月灯明-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/Rd2N5yOocY74n_jTjjNynw",
+                "title": "《静思妙莲华》129-三昧威仪成就-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/MApo_u-D2rOes0pIcfS5nA",
+                "title": "《静思妙莲华》130-微妙的心灵道场-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/U9qRSF39iWJduSeXOCfs1A",
+                "title": "《静思妙莲华》131-佛佛道同悲智双运-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/uH-kzzfcHyjqZcZ0BhnFuQ",
+                "title": "《静思妙莲华》132-启发内心妙智之光-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/HGg5psNzcYVRpmQ-jw4LDg",
+                "title": "《静思妙莲华》133-入群成就大乘事业-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/-GxJdPxXo8AAlOJ37QtQoQ",
+                "title": "《静思妙莲华》134-恒持刹那初发心-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/Mt9k0K-3CrbntSQrmcPHjQ",
+                "title": "《静思妙莲华》135-专注精进与佛同心-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/mdjhcInMv_JCyehSBghrQw",
+                "title": "《静思妙莲华》136-运载群生渡生死河-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/NOKeSjDcBT3U2sOGuUEOkA",
+                "title": "《静思妙莲华》137-心灵妙药自度度人-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/CeBadnNwS5_scxlWCRO3bQ",
+                "title": "《静思妙莲华》138-一灯二焰灯灯相续-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/-oexELolL2079F7MBC2Nvg",
+                "title": "《静思妙莲华》139-菩萨游戏人间-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/ghxOVFD_XKhT0U4pRO7BlA",
+                "title": "《静思妙莲华》140-安住愿力净佛国度-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/Rhi3Vuqft3K9lUme_9MfFQ",
+                "title": "《静思妙莲华》141-乞法度众身心清净-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/EJeH_ChmpBptXYEOgk1w7Q",
+                "title": "《静思妙莲华》142-传承无上大乘法-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/o7vRojGxjnrKq-kSAo1aJg",
+                "title": "《静思妙莲华》143-供养无量百千万亿佛-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/bhu6OXBa3W-scp-uL4Huhg",
+                "title": "《静思妙莲华》144-精进者得早成佛-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/MzWp20ustqktywGZYnVPbQ",
+                "title": "《静思妙莲华》145-贪着利养断功德本-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/IgT3HtTGCuhLKrIKVEyzSQ",
+                "title": "《静思妙莲华》146-贪着利养断功德本-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/gxrXSEJmkL2YHhIy9Uf_Jw",
+                "title": "《静思妙莲华》147-持心自守 佛心己心-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/OdYsGORTLLqjdz-hUnXgsg",
+                "title": "《静思妙莲华》148-寂静无境-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/VceRSAIhcC2NsrXS8RwUvg",
+                "title": "《静思妙莲华》149-断除虚妄幻想-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/AgIKMbfEyk73VeSrWat6Vw",
+                "title": "《静思妙莲华》150-一实相之中妙义无穷-序品第一"
+            }]
+        }, {
+            "groupTitle": "静思妙莲华 01序品 151 -- 185",
+            "list": [{
+                "href": "https://mp.weixin.qq.com/s/N0_oyyyZl0sBOVArUzTkTQ",
+                "title": "《静思妙莲华》151-心不离法佛性现前-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/luZvcbakPilEI2HNn-m5YA",
+                "title": "《静思妙莲华》152-诸佛法身如虚空-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/_epZ-OH9A8BpIR5Xc_kihQ",
+                "title": "《静思妙莲华》153-无染着的清净佛性-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/riv49R0JCq0yGk-xR6m3Gw",
+                "title": "《静思妙莲华》154-正信清净通达无碍-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/eAfmX5nYRfrlzWEGyVDkRg",
+                "title": "《静思妙莲华》155-慈悲十力无畏起-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/pj2-fa8fbygJ0-H7NSeDAw",
+                "title": "《静思妙莲华》156-修三业共成善业因缘-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/LbKNB7eOsMcZGO-gMP9iEw",
+                "title": "《静思妙莲华》157-顺理益己之法-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/ua4r_Z80FewmfZrCl3XkPg",
+                "title": "《静思妙莲华》158-赞佛相好度众生-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/t9Lm7Cfi1fr6b7cAraMCDA",
+                "title": "《静思妙莲华》159- 共造福业修庄严相-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/7jsaebHb4MH9eHGupLfbtA",
+                "title": "《静思妙莲华》160-心法合一真性琉璃-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/5uuJyo0tOK411sVuv3CBfA",
+                "title": "《静思妙莲华》161-转识成智成就慧命-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/_bsjW8oenZ7socSP_dHM5Q",
+                "title": "《静思妙莲华》162-稽首精进持净戒-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/26jKqORYi5DB3F1Glzg46g",
+                "title": "《静思妙莲华》163-佛光所照甚深远-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/rYInLLKaQzyuRVVnqD_mSA",
+                "title": "《静思妙莲华》164-禅定思惟断烦恼-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/2hBPZ1w13MpaAaYJPndeJQ",
+                "title": "《静思妙莲华》165-无漏智慧了悟因缘-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/oxW9MGBrzdD3HyS5g7evYg",
+                "title": "《静思妙莲华》166-菩萨总持一切法-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/_PRdKaRXpz41DI4zKi6lqw",
+                "title": "《静思妙莲华》167-菩萨游戏胜妙法乐—序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/aBIewPIeDipveMmzSUz7AA",
+                "title": "《静思妙莲华》168-菩萨成道得大自在-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/gwl6gCDWD5eoQ3a_uR8qLA",
+                "title": "《静思妙莲华》169-心转法轮慈悲等观-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/qVprvY-kXZ8vzB1TQpuTAg",
+                "title": "《静思妙莲华》170-皈依如来清净性-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/BwB-mlaT8FpRML27c10L1Q",
+                "title": "《静思妙莲华》171-运慈启悲因圆果满-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/Tpmp-sLHc2NkvdUtSKoGEA",
+                "title": "《静思妙莲华》172-闻法精进离凡入圣-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/XhywEL8vfHkwHCJwcnAMcw",
+                "title": "《静思妙莲华》173-灭除梦妄思想念-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/08SmLoqHbaJdAUGecaafww",
+                "title": "《静思妙莲华》174-了彻生死大事-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/YHIHi0qqSpAsY7s2SYNqQg",
+                "title": "《静思妙莲华》175-精勤修善法-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/65uWY3bTBx9lcOOCJKBo1g",
+                "title": "《静思妙莲华》176-受持如来法藏-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/VyAYiDInMo37SJFt_MQbSQ",
+                "title": "《静思妙莲华》177-懈怠贪着当警惕-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/QXDLzLkaafYV96DG_tytyQ",
+                "title": "《静思妙莲华》178-精进修行心勿放逸-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/2XgvrOI-mfYQQi2xbN-biw",
+                "title": "《静思妙莲华》179-行众善业见无数佛-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/GxmTogz-n436VGabzp81tA",
+                "title": "《静思妙莲华》180-广结善缘行菩萨道-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/LkXK7pS6HnKw9mSI4kgtiA",
+                "title": "《静思妙莲华》181-虔诚闻法及时忏悔-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/kDVyWsgcybyD5XspwhWU9g",
+                "title": "《静思妙莲华》182-身心精进福慧双具-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/BT1XpNc9dR6GN_k7dLx8OA",
+                "title": "《静思妙莲华》183- 正信生善根方便教众生-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/4Da8xJPacJwKRNiETvognA",
+                "title": "《静思妙莲华》184-法雨滋润大小乾坤-序品第一"
+            }, {
+                "href": "https://mp.weixin.qq.com/s/pVW9NGe8tHYy6fB_4Ay8rg",
+                "title": "《静思妙莲华》185-法无古今等同日月-序品第一"
+            }]
+        }]
+    }
+}

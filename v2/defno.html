@@ -141,7 +141,9 @@
                         insertData(data);
                     },
                     error: function(e) {
-                        goback();
+                        console.log('none')
+                        $('[data-id="title"]').text("内容维护中。。。");
+                        // goback();
                     }
                 });
 

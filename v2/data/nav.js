@@ -24,37 +24,37 @@ var data_nav = [
     {
         "title" : "静思妙莲华",
         "childs" : [
-            {"link" : "sutra_lotus0.html", "oldLink" : "sutra_lotus0.html", "title" : "静思妙莲华 法华经前序 "},
-            {"link" : "sutra_lotus01.html", "oldLink" : "sutra_lotus01.html", "title" : "静思妙莲华 01序品 "},
-            {"link" : "sutra_lotus02.html", "oldLink" : "sutra_lotus02.html", "title" : "静思妙莲华 02方便品 "},
-            {"link" : "sutra_lotus03.html", "oldLink" : "sutra_lotus03.html", "title" : "静思妙莲华 03譬喻品 "},
-            {"link" : "sutra_lotus04.html", "oldLink" : "sutra_lotus04.html", "title" : "静思妙莲华 04信解品 "},
-            {"link" : "sutra_lotus05.html", "oldLink" : "sutra_lotus05.html", "title" : "静思妙莲华 05药草喻品 "},
-            {"link" : "sutra_lotus06.html", "oldLink" : "sutra_lotus06.html", "title" : "静思妙莲华 06授记品 "},
-            {"link" : "sutra_lotus07.html", "oldLink" : "sutra_lotus07.html", "title" : "静思妙莲华 07化城喻品 "},
-            {"link" : "sutra_lotus08.html", "oldLink" : "sutra_lotus08.html", "title" : "静思妙莲华 08五百弟子授记品 "},
-            {"link" : "sutra_lotus09.html", "oldLink" : "sutra_lotus09.html", "title" : "静思妙莲华 09授学无学人记品 "},
-            {"link" : "sutra_lotus10.html", "oldLink" : "sutra_lotus10.html", "title" : "静思妙莲华 10法师品 "},
-            {"link" : "sutra_lotus11.html", "oldLink" : "sutra_lotus11.html", "title" : "静思妙莲华 11见宝塔品 "},
-            {"link" : "sutra_lotus12.html", "oldLink" : "sutra_lotus12.html", "title" : "静思妙莲华 12提婆达多品 "},
-            {"link" : "sutra_lotus13.html", "oldLink" : "sutra_lotus13.html", "title" : "静思妙莲华 13劝持品 "},
-            {"link" : "sutra_lotus14.html", "oldLink" : "sutra_lotus14.html", "title" : "静思妙莲华 14安乐行品 "},
-            {"link" : "sutra_lotus15.html", "oldLink" : "sutra_lotus15.html", "title" : "静思妙莲华 15从地涌出品 "},
-            {"link" : "sutra_lotus16.html", "oldLink" : "sutra_lotus16.html", "title" : "静思妙莲华 16如来寿量品 "},
-            {"link" : "sutra_lotus17.html", "oldLink" : "sutra_lotus17.html", "title" : "静思妙莲华 17分别功德品 "},
-            {"link" : "sutra_lotus18.html", "oldLink" : "sutra_lotus18.html", "title" : "静思妙莲华 18随喜功德品 "},
-            {"link" : "sutra_lotus19.html", "oldLink" : "sutra_lotus19.html", "title" : "静思妙莲华 19法师功德品 "}
+            {"link" : "def.html?id=12", "oldLink" : "sutra_lotus0.html", "title" : "静思妙莲华 法华经前序 "},
+            {"link" : "def.html?id=13", "oldLink" : "sutra_lotus01.html", "title" : "静思妙莲华 01序品 "},
+            {"link" : "def.html?id=14", "oldLink" : "sutra_lotus02.html", "title" : "静思妙莲华 02方便品 "},
+            {"link" : "def.html?id=15", "oldLink" : "sutra_lotus03.html", "title" : "静思妙莲华 03譬喻品 "},
+            {"link" : "def.html?id=16", "oldLink" : "sutra_lotus04.html", "title" : "静思妙莲华 04信解品 "},
+            {"link" : "def.html?id=17", "oldLink" : "sutra_lotus05.html", "title" : "静思妙莲华 05药草喻品 "},
+            {"link" : "def.html?id=18", "oldLink" : "sutra_lotus06.html", "title" : "静思妙莲华 06授记品 "},
+            {"link" : "def.html?id=19", "oldLink" : "sutra_lotus07.html", "title" : "静思妙莲华 07化城喻品 "},
+            {"link" : "def.html?id=20", "oldLink" : "sutra_lotus08.html", "title" : "静思妙莲华 08五百弟子授记品 "},
+            {"link" : "def.html?id=21", "oldLink" : "sutra_lotus09.html", "title" : "静思妙莲华 09授学无学人记品 "},
+            {"link" : "def.html?id=22", "oldLink" : "sutra_lotus10.html", "title" : "静思妙莲华 10法师品 "},
+            {"link" : "def.html?id=23", "oldLink" : "sutra_lotus11.html", "title" : "静思妙莲华 11见宝塔品 "},
+            {"link" : "defno.html?id=24", "oldLink" : "sutra_lotus12.html", "title" : "静思妙莲华 12提婆达多品 "},
+            {"link" : "defno.html?id=25", "oldLink" : "sutra_lotus13.html", "title" : "静思妙莲华 13劝持品 "},
+            {"link" : "defno.html?id=26", "oldLink" : "sutra_lotus14.html", "title" : "静思妙莲华 14安乐行品 "},
+            {"link" : "defno.html?id=27", "oldLink" : "sutra_lotus15.html", "title" : "静思妙莲华 15从地涌出品 "},
+            {"link" : "defno.html?id=28", "oldLink" : "sutra_lotus16.html", "title" : "静思妙莲华 16如来寿量品 "},
+            {"link" : "defno.html?id=29", "oldLink" : "sutra_lotus17.html", "title" : "静思妙莲华 17分别功德品 "},
+            {"link" : "defno.html?id=30", "oldLink" : "sutra_lotus18.html", "title" : "静思妙莲华 18随喜功德品 "},
+            {"link" : "defno.html?id=31", "oldLink" : "sutra_lotus19.html", "title" : "静思妙莲华 19法师功德品 "}
         ]
     },
     
     {
         "title" : "慈济践行",
         "childs" : [
-            {"link" : "tzuchiroad.html", "oldLink" : "tzuchiroad.html", "title" : "慈济四大志业"},
-            {"link" : "tzuchipractice.html", "oldLink" : "tzuchipractice.html", "title" : "慈济宗门人间路"},
-            {"link" : "onlinetraining.html", "oldLink" : "onlinetraining.html", "title" : "在线共修"},
-            {"link" : "aphorisms.html", "oldLink" : "aphorisms.html", "title" : "静思语"},
-            {"link" : "tzuchiMusic.html", "oldLink" : "tzuchiMusic.html", "title" : "慈济歌曲"}
+            {"link" : "def.html?id=32", "oldLink" : "tzuchiroad.html", "title" : "慈济四大志业"},
+            {"link" : "def.html?id=33", "oldLink" : "tzuchipractice.html", "title" : "慈济宗门人间路"},
+            {"link" : "def.html?id=34", "oldLink" : "onlinetraining.html", "title" : "在线共修"},
+            {"link" : "def.html?id=35", "oldLink" : "aphorisms.html", "title" : "静思语"},
+            {"link" : "def.html?id=36", "oldLink" : "tzuchiMusic.html", "title" : "慈济歌曲"}
         ]
     },
     {
