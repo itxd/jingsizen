@@ -1,0 +1,36 @@
+{
+    "title" : "静思语",
+    "desc" : "<div style='text-align:left'></div>",
+    "headimg" : "http://jingsizen.com/img/bluesky1.png",
+    "list" : {
+        "type" : "mp3List1",
+        "info" : [{
+            "title": "静思语 一",
+            "href": "audio/aphorisms/46-1.m4a"
+            },
+            {
+            "title": "静思语 二",
+            "href": "audio/aphorisms/46-2.m4a"
+            },   
+            {
+            "title": "静思语 三",
+            "href": "audio/aphorisms/46-3.m4a"
+            },
+            {
+            "title": "静思语 四",
+            "href": "audio/aphorisms/46-4.m4a"
+            },   
+            {
+            "title": "静思语 五",
+            "href": "audio/aphorisms/46-5.m4a"
+            },
+            {
+            "title": "静思语 六",
+            "href": "audio/aphorisms/46-6.m4a"
+            },   
+            {
+            "title": "静思语 七",
+            "href": "audio/aphorisms/46-7.m4a"
+            }]
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "title" : "在线共修",
+    "desc" : "<div style='text-align:left'></div>",
+    "headimg" : "http://jingsizen.com/img/%E5%9C%A8%E7%BA%BF%E5%85%B1%E4%BF%AE-196.png",
+    "list" : {
+        "type" : "videoList1",
+        "info" : [{
+            "title": "哪能盡如人意-但求無愧我心",
+            "img": "http://jingsizen.com/video/哪能盡如人意-但求無愧我心.png",
+            "video": "http://jingsizen.com/video/哪能盡如人意-但求無愧我心.mp4"
+        }, {
+            "title": "20230115思賢師兄基隆靜思堂分享",
+            "img": "http://jingsizen.com/video/20230115思賢師兄基隆靜思堂分享.png",
+            "video": "http://jingsizen.com/video/20230115思賢師兄基隆靜思堂分享.mp4"
+        }, {
+            "title": "濟雨師兄-碰到承擔就上-碰到榮譽就讓",
+            "img": "http://jingsizen.com/video/濟雨師兄-碰到承擔就上-碰到榮譽就讓.png",
+            "video": "http://jingsizen.com/video/濟雨師兄-碰到承擔就上-碰到榮譽就讓.mp4"
+        }, {
+            "title": "濟雨師兄-心靜自然涼",
+            "img": "http://jingsizen.com/video/濟雨師兄-心靜自然涼.png",
+            "video": "http://jingsizen.com/video/濟雨師兄-心靜自然涼.mp4"
+        }, {
+            "title": "貧窮布施難-富貴學道難",
+            "img": "http://jingsizen.com/video/貧窮布施難-富貴學道難.png",
+            "video": "http://jingsizen.com/video/貧窮布施難-富貴學道難.mp4"
+        }, {
+            "title": "一半尽其在我一半順其自然",
+            "img": "http://jingsizen.com/video/一半尽其在我一半順其自然.png",
+            "video": "http://jingsizen.com/video/一半尽其在我一半順其自然.mp4"
+        }, {
+            "title": "低调处理-积极进行",
+            "img": "http://jingsizen.com/video/低调处理-积极进行.png",
+            "video": "http://jingsizen.com/video/低调处理-积极进行.mp4"
+        }, {
+            "title": "心中有寂靜-人生不寂寞",
+            "img": "http://jingsizen.com/video/心中有寂靜-人生不寂寞.png",
+            "video": "http://jingsizen.com/video/心中有寂靜-人生不寂寞.mp4"
+        }, {
+            "title": "生命故事-不悔慈濟情-丁林彩",
+            "img": "http://jingsizen.com/video/生命故事.png",
+            "video": "http://jingsizen.com/video/生命故事-不悔慈濟情-丁林彩.mp4"
+        }, {
+            "title": "生命故事-由迷轉悟信願行-王芬蘭",
+            "img": "http://jingsizen.com/video/生命故事.png",
+            "video": "http://jingsizen.com/video/生命故事-由迷轉悟信願行-王芬蘭.mp4"
+        }, {
+            "title": "生命故事-因為愛跨越生死再相見-陳瑋瑋",
+            "img": "http://jingsizen.com/video/生命故事.png",
+            "video": "http://jingsizen.com/video/生命故事-因為愛跨越生死再相見-陳瑋瑋.mp4"
+        }, {
+            "title": "沉得住氣-耐力變定力",
+            "img": "http://jingsizen.com/video/沉得住氣-耐力變定力.png",
+            "video": "http://jingsizen.com/video/沉得住氣-耐力變定力.mp4"
+        }, {
+            "title": "生命的故事-活在當下-陳阿桃师姐",
+            "img": "http://jingsizen.com/video/生命的故事-活在當下-陳阿桃.png",
+            "video": "http://jingsizen.com/video/生命的故事-活在當下-陳阿桃.mp4"
+        }, {
+            "title": "生命的故事-如果明天就是下一生-張華容师姐",
+            "img": "http://jingsizen.com/video/生命的故事-如果明天就是下一生-張華容师姐.png",
+            "video": "http://jingsizen.com/video/生命的故事-如果明天就是下一生-張華容师姐.mp4"
+        }, {
+            "title": "生命的故事-草食動物-游美雲",
+            "img": "http://jingsizen.com/video/生命的故事-草食動物-游美雲.png",
+            "video": "http://jingsizen.com/video/生命的故事-草食動物-游美雲.mp4"
+        }, {
+            "title": "生活解惑-同心同道同志願",
+            "img": "http://jingsizen.com/video/生活解惑-同心同道同志願.png",
+            "video": "http://jingsizen.com/video/生活解惑-同心同道同志願.mp4"
+        }, {
+            "title": "心寬念純美善人生-蔡青兒",
+            "img": "http://jingsizen.com/video/心寬念純美善人生-蔡青兒.png",
+            "video": "http://jingsizen.com/video/心寬念純美善人生-蔡青兒.mp4"
+        }, {
+            "title": "沒有個性不是人-太有個性難做人",
+            "img": "http://jingsizen.com/video/沒有個性不是人-太有個性難做人.png",
+            "video": "http://jingsizen.com/video/沒有個性不是人-太有個性難做人.mp4"
+        }, {
+            "title": "改變自己-王運敬師兄-以慈修身-善入佛慧",
+            "img": "http://jingsizen.com/video/改變自己-王運敬師兄.png",
+            "video": "http://jingsizen.com/video/改變自己-王運敬師兄.mp4"
+        }, {
+            "title": "辛苦一陣子快樂一輩子",
+            "img": "http://jingsizen.com/video/辛苦一陣子快樂一輩子.png",
+            "video": "http://jingsizen.com/video/辛苦一陣子快樂一輩子.mp4"
+        }, {
+            "title": "閱讀讓希望綻放",
+            "img": "http://jingsizen.com/video/閱讀讓希望綻放.png",
+            "video": "http://jingsizen.com/video/閱讀讓希望綻放.mp4"
+        }, {
+            "title": "當佛陀遇見阿拉-简慈露師姊",
+            "img": "http://jingsizen.com/video/當佛陀遇見阿拉-简慈露師姊.png",
+            "video": "http://jingsizen.com/video/當佛陀遇見阿拉-简慈露師姊.mp4"
+        }, {
+            "title": "葉美玉師姐 - 蛻變人生",
+            "img": "http://jingsizen.com/video/葉美玉師姐-蛻變人生.png",
+            "video": "http://jingsizen.com/video/葉美玉師姐-蛻變人生.mp4"
+        }, {
+            "title": "疫情下的靜心省思-及大陆大江南北行--黃思賢師兄",
+            "img": "http://jingsizen.com/img/疫情下的靜心省思-慈濟全球志工總督導黃思賢師兄.png",
+            "video": "http://jingsizen.com/video/疫情下的靜心省思-慈濟全球志工總督導黃思賢師兄.mp4"
+        }, {
+            "title": "柳暗花明好多村",
+            "img": "http://jingsizen.com/video/柳暗花明好多村.png",
+            "video": "http://jingsizen.com/video/柳暗花明好多村.mp4"
+        }, {
+            "title": "慈濟人的責任使命-慈濟精神理念-呂慈悅師姊",
+            "img": "http://jingsizen.com/video/慈濟人的責任使命-慈濟精神理念-呂慈悅師姊-2010.png",
+            "video": "http://jingsizen.com/video/慈濟人的責任使命-慈濟精神理念-呂慈悅師姊-2010.mp4"
+        }, {
+            "title": "紀媽咪的壽量寶藏",
+            "img": "http://jingsizen.com/video/紀媽咪的壽量寶藏.png",
+            "video": "http://jingsizen.com/video/紀媽咪的壽量寶藏.mp4"
+        }, {
+            "title": "喜悅是良藥",
+            "img": "http://jingsizen.com/video/喜悅是良藥.png",
+            "video": "http://jingsizen.com/video/喜悅是良藥.mp4"
+        }, {
+            "title": "紀媽咪-恆持初心堅固道心",
+            "img": "http://jingsizen.com/video/紀媽咪-恆持初心堅固道心.png",
+            "video": "http://jingsizen.com/video/紀媽咪-恆持初心堅固道心.mp4"
+        }, {
+            "title": "神州大地-任我行-黃思賢師兄",
+            "img": "http://jingsizen.com/video/神州大地-任我行-黃思賢師兄.png",
+            "video": "http://jingsizen.com/video/神州大地-任我行-黃思賢師兄.mp4"
+        }, {
+            "title": "腸樂我淨-素無量心-王本榮執行長-黃思浩師兄-凌宛琪師姊",
+            "img": "http://jingsizen.com/video/veggie/腸樂我淨-素無量心-王本榮執行長-黃思浩師兄-凌宛琪師姊.png",
+            "video": "http://jingsizen.com/video/veggie/腸樂我淨-素無量心-王本榮執行長-黃思浩師兄-凌宛琪師姊.mp4"
+        }, {
+            "title": "線上共修-以「正信正念」提升心靈正能量 - (許瑞云醫師、鄭先安醫師)",
+            "img": "http://jingsizen.com/img/提升心靈正能量.png",
+            "video": "http://jingsizen.com/video/2020年6月7日-線上共修-以-正信正念-提升心靈正能量.mp4"
+        }, {
+            "title": "線上共修-清淨在源頭-簡約好生活 - (柳宗言師兄)",
+            "img": "http://jingsizen.com/img/簡約好生活.png",
+            "video": "http://jingsizen.com/video/2020年6月7日-線上共修-清淨在源頭-簡約好生活.mp4"
+        }, {
+            "title": "線上共修-屬於你我他的人間菩薩道 - (思浩師兄)",
+            "img": "http://jingsizen.com/img/人間菩薩道.png",
+            "video": "http://jingsizen.com/video/2020年6月7日-線上共修-屬於你我他的人間菩薩道.mp4"
+        }, {
+            "title": "線上共修-體現法華精神在人間 - (德禪法師)",
+            "img": "http://jingsizen.com/img/體現法華精神在人間.png",
+            "video": "http://jingsizen.com/video/2020年6月7日-線上共修-體現法華精神在人間.mp4"
+        }]
+    }
+}

@@ -137,6 +137,10 @@ body {
     height: 38px;
     -webkit-line-clamp: 1;
 }
+.list-box.mp3List1 .item .title {
+    height: 38px;
+    -webkit-line-clamp: 1;
+}
 .list-box .to-play {
     cursor: pointer;
 }

@@ -1,0 +1,30 @@
+{
+    "title" : "慈济歌曲",
+    "desc" : "<div style='text-align:left'>音乐，是最广泛的沟通媒介，遍及虚空，贯通古今，含括万物。它与人类生命息息相关，能调和身心、怡情养性、传递知识、涵养美学与人文情怀，并具有导正人心，与天地共生息的良能。 成立于1966年的慈济，在 证严法师导引下，奉行法华精神，依止无量义法，秉承印公导师「为佛教，为众生」的嘱勉，应时代苦难所需，开无量法门，拔苦与乐，复为说法。而音乐，正是诸众法门之一，为苦难苍生肤伤痛，为时代历史做见证，为天地纷扰致祥和，为成就人间菩萨慧命传法音。 证严法师对全球弟子期勉─「静思勤行道，慈济人间路」之「勤行道」，其义为大众应殷勤精进深入佛陀根本教理，守志奉道，利济人群，成就圆满人格。</div>",
+    "headimg" : "http://jingsizen.com/img/master-jssutra.jpg",
+    "list" : {
+        "type" : "mp3List1",
+        "info" : [
+            {"title": "生生世世都在菩提中","video": "http://jingsizen.com/audio/TZM-pick1/生生世世都在菩提中.mp3"},
+            {"title": "慈济歌曲-守著您","video": "http://jingsizen.com/audio/TZM-pick1/守著您.mp3"},
+            {"title": "拉車向前行","video": "http://jingsizen.com/audio/TZM-pick1/拉車向前行.mp3"},
+            {"title": "路要自己走","video": "http://jingsizen.com/audio/TZM-pick1/路要自己走.mp3"},
+            {"title": "慈济歌曲-溫暖","video": "http://jingsizen.com/audio/TZM-pick1/溫暖.mp3"},
+            {"title": "靜寂清澄_23_min","video": "http://jingsizen.com/audio/TZM-pick1/靜寂清澄_23_min.mp3"},
+            {"title": "立體琉璃同心圓","video": "http://jingsizen.com/audio/TZM-pick1/立體琉璃同心圓.mp3"},
+            {"title": "讚佛偈_南無本師釋迦牟尼佛","video": "http://jingsizen.com/audio/TZM-pick1/讚佛偈_南無本師釋迦牟尼佛.mp3"},
+            {"title": "路要自己走","video": "http://jingsizen.com/audio/TZM-pick1/路要自己走.mp3"},
+            {"title": "綠遍天涯香四方","video": "http://jingsizen.com/audio/TZM-pick1/綠遍天涯香四方.mp3"},
+            {"title": "大地和風－完整版本－中英歌詞","video": "http://jingsizen.com/audio/tzm-pick2/01大地和風－完整版本－中英歌詞.m4a"},
+            {"title": "靜寂清澄有鐘聲版","video": "http://jingsizen.com/audio/tzm-pick2/02靜寂清澄有鐘聲版.m4a"},
+            {"title": "想師豆","video": "http://jingsizen.com/audio/tzm-pick2/03想師豆.m4a"},
+            {"title": "千手世界","video": "http://jingsizen.com/audio/tzm-pick2/04千手世界.m4a"},
+            {"title": "方向-證嚴上人的悲願-","video": "http://jingsizen.com/audio/tzm-pick2/05方向-證嚴上人的悲願-.m4a"},
+            {"title": "生生世世都在菩提中","video": "http://jingsizen.com/audio/tzm-pick2/06生生世世都在菩提中.m4a"},
+            {"title": "立願文","video": "http://jingsizen.com/audio/tzm-pick2/07立願文.m4a"},
+            {"title": "誠心祈三願","video": "http://jingsizen.com/audio/tzm-pick2/08誠心祈三願.m4a"},
+            {"title": "路要自己走","video": "http://jingsizen.com/audio/TZM-pick1/路要自己走.mp3"},
+            {"title": "綠遍天涯香四方","video": "http://jingsizen.com/audio/TZM-pick1/綠遍天涯香四方.mp3"}
+        ]
+    }
+}
