@@ -1,0 +1,81 @@
+{
+    "title" : "禅林百家",
+    "desc" : "",
+    "headimg" : "http://jingsizen.com/img/gardenpic.png",
+    "list" : {
+        "type" : "videoList1",
+        "info" : [{
+            "title": "楞嚴經-J01-惠平法師恭誦",
+            "img": "http://jingsizen.com/leng-yan/楞嚴經.jpeg",
+            "video": "http://jingsizen.com/leng-yan/楞嚴經-J01-惠平法師恭誦.mp4"
+        }, {
+            "title": "楞嚴經-J02",
+            "img": "http://jingsizen.com/leng-yan/楞嚴經.jpeg",
+            "video": "http://jingsizen.com/leng-yan/楞嚴經-J02.mp4"
+        }, {
+            "title": "楞嚴經-J03",
+            "img": "http://jingsizen.com/leng-yan/楞嚴經.jpeg",
+            "video": "http://jingsizen.com/leng-yan/楞嚴經-J03.mp4"
+        }, {
+            "title": "楞嚴經-J04",
+            "img": "http://jingsizen.com/leng-yan/楞嚴經.jpeg",
+            "video": "http://jingsizen.com/leng-yan/楞嚴經-J04.mp4"
+        }, {
+            "title": "楞嚴經-J05",
+            "img": "http://jingsizen.com/leng-yan/楞嚴經.jpeg",
+            "video": "http://jingsizen.com/leng-yan/楞嚴經-J05.mp4"
+        }, {
+            "title": "楞嚴經-J06",
+            "img": "http://jingsizen.com/leng-yan/楞嚴經.jpeg",
+            "video": "http://jingsizen.com/leng-yan/楞嚴經-J06.mp4"
+        }, {
+            "title": "楞嚴經-J06",
+            "img": "http://jingsizen.com/leng-yan/楞嚴經.jpeg",
+            "video": "http://jingsizen.com/leng-yan/楞嚴經-J07.mp4"
+        }, {
+            "title": "楞嚴經-J08",
+            "img": "http://jingsizen.com/leng-yan/楞嚴經.jpeg",
+            "video": "http://jingsizen.com/leng-yan/楞嚴經-J08.mp4"
+        }, {
+            "title": "楞嚴經-J09",
+            "img": "http://jingsizen.com/leng-yan/楞嚴經.jpeg",
+            "video": "http://jingsizen.com/leng-yan/楞嚴經-J09.mp4"
+        }, {
+            "title": "楞嚴經-J10",
+            "img": "http://jingsizen.com/leng-yan/楞嚴經.jpeg",
+            "video": "http://jingsizen.com/leng-yan/楞嚴經-J10.mp4"
+        }, {
+            "title": "借法的力量卸下心灵的包袱-1-吉祥尊者",
+            "img": "http://jingsizen.com/video/借法的力量卸下心灵的包袱-1-吉祥尊者.png",
+            "video": "http://jingsizen.com/video/借法的力量卸下心灵的包袱-1-吉祥尊者.mp4"
+        }, {
+            "title": "借法的力量卸下心灵的包袱-2-吉祥尊者",
+            "img": "http://jingsizen.com/video/借法的力量卸下心灵的包袱-1-吉祥尊者.png",
+            "video": "http://jingsizen.com/video/借法的力量卸下心灵的包袱2.mp4"
+        }, {
+            "title": "中国物理界泰斗 - 南方科技大学校长 - 朱清时将物理和佛学无缝结合",
+            "img": "http://jingsizen.com/img/朱清时将物理和佛学无缝结合.png",
+            "video": "http://jingsizen.com/video/南方科技大学校长朱清时将物理和佛学无缝结合.mp4"
+        }, {
+            "title": "心靈講座-情緒不超載-生活更自在",
+            "img": "http://jingsizen.com/img/心靈講座.png",
+            "video": "http://jingsizen.com/video/心靈講座-情緒不超載-生活更自在-洪仲清.mp4"
+        }, {
+            "title": "心靈講座-創新格局-實踐夢想-李安",
+            "img": "http://jingsizen.com/img/心靈講座.png",
+            "video": "http://jingsizen.com/video/心靈講座-創新格局-實踐夢想-李安.mp4"
+        }, {
+            "title": "正念的奇迹-介绍一行禅师 ",
+            "img": "http://jingsizen.com/video/正念的奇蹟.png",
+            "video": "http://jingsizen.com/video/正念的奇迹-介绍一行禅师.mov"
+        }, {
+            "title": "靜思心靈講座-走出伤痛破茧重生-許瑞云",
+            "img": "http://jingsizen.com/video/Dr-XuRuiYun.png",
+            "video": "http://jingsizen.com/video/靜思心靈講座-走出傷痛破繭重生-許瑞云.mp4"
+        }, {
+            "title": "《生命·觉者》梁冬对话陈履安--觉性科学",
+            "img": "http://jingsizen.com/video/生命觉者.png",
+            "video": "http://jingsizen.com/video/《生命·觉者》梁冬对话陈履安--觉性科学.mp4"
+        }]
+    }
+}

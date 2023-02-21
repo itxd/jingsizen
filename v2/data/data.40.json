@@ -1,0 +1,45 @@
+{
+    "title" : "衲履足跡",
+    "desc" : "<a href=\"https://mp.weixin.qq.com/s/E4D0PSqvHMYcFlX1hcHgpA\">衲履足迹 - 如是我闻</a> 衲衣布履游化人间，善导众生，《衲履足迹》是师之日记，亦是慈济现代版之《阿含经》。期待您阅卷,恭听汲取师父法髓，深刻自己的生命，丰富人生的内涵，心宽念纯，法喜绵延，福慧圆满。<p></p>喜马拉雅网站亦有志工恭读衲履足迹，欢迎前往收听：<a href=\"https://www.ximalaya.com/zhubo/84886636\">喜马拉雅主播：静思弟子</a><p></p>",
+    "headimg" : "http://jingsizen.com/img/bluesky1.png",
+    "list" : {
+        "type" : "videoList1",
+        "info" : [
+            {
+            "title":"20230218親子共善-用心辦學",
+            "img" : "http://jingsizen.com/master-journal/衲履足跡.png",
+            "video":"http://jingsizen.com/master-journal/20230218親子共善-用心辦學.mp4"
+            },
+            {
+            "title":"20230211援烏志工-齊聚精舍",
+            "img" : "http://jingsizen.com/master-journal/衲履足跡.png",
+            "video":"http://jingsizen.com/master-journal/20230211援烏志工-齊聚精舍.mp4"
+            },
+            {
+            "title":"20230204打開心門-歡喜迎來",
+            "img" : "http://jingsizen.com/master-journal/衲履足跡.png",
+            "video":"http://jingsizen.com/master-journal/20230204打開心門-歡喜迎來.mp4"
+            },
+            {
+            "title":"20230128繭成舍利-最美雙手",
+            "img" : "http://jingsizen.com/master-journal/衲履足跡.png",
+            "video":"http://jingsizen.com/master-journal/20230128繭成舍利-最美雙手.mp4"
+            },
+            {
+            "title":"20230121慈悲行善-智慧處世",
+            "img" : "http://jingsizen.com/master-journal/衲履足跡.png",
+            "video":"http://jingsizen.com/master-journal/20230121慈悲行善-智慧處世.mp4"
+            },
+            {
+            "title":"20230114愛為信仰-互敬互重",
+            "img" : "http://jingsizen.com/master-journal/衲履足跡.png",
+            "video":"http://jingsizen.com/master-journal/20230114愛為信仰-互敬互重.mp4"
+            },
+            {
+            "title":"20230107瑞氣同心-法入心行",
+            "img" : "http://jingsizen.com/master-journal/衲履足跡.png",
+            "video":"http://jingsizen.com/master-journal/20230107瑞氣同心-法入心行.mp4"
+            }
+        ]
+    }
+}

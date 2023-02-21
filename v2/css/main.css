@@ -3,6 +3,10 @@ body {
     padding-top: 70px;
     background: #ecf0f5;
 }
+footer {
+    margin: 0;
+    padding: 0 0 50px;
+}
 
 /* 导航条 */
 .common-nav .navbar-toggle {
@@ -61,7 +65,7 @@ body {
 
 /* 正文 */
 .art-box {
-    margin: 40px 0;
+    margin: 20px 0;
     padding: 0;
     background: #fff;
     border-radius: 3px;
@@ -71,7 +75,7 @@ body {
     overflow: hidden;
 }
 .art-box .hd {
-    padding: 1em 3em 2em;
+    padding: 1em 1em 2em;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     text-align: center;
@@ -95,11 +99,13 @@ body {
 .list-box {
     box-sizing: border-box;
     padding: 10px 30px;
+    overflow: hidden;
 }
 .list-box .img {
     position: relative;
     width: 100%;
     padding-top: 50%;
+    background-size: 100% 100%;
 }
 .list-box .img .play-btn {
     display: block;

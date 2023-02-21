@@ -1,0 +1,90 @@
+{
+    "title" : "蔬食养生",
+    "desc" : "《德育启蒙》为印光大师著。所言多正心、诚意、修身、齐家之要事。《德育启蒙》明确提出了蔬食卫生的概念。 原文为“蔬食卫生，肉食伤生，杀时恨心，其毒非轻。”",
+    "headimg" : "http://jingsizen.com/img/bluesky1.png",
+    "list" : {
+        "type" : "videoList1",
+        "info" : [
+            {
+            "title":"名人蔬食-選擇蔬食-讓身心靈健康",
+            "img" : "http://jingsizen.com/video/veggie/名人蔬食.png",
+            "video":"http://jingsizen.com/video/veggie/名人蔬食-選擇蔬食-讓身心靈健康.mp4"
+            },
+            {
+            "title":"陳薇巧-以茹素醇香生活",
+            "img" : "http://jingsizen.com/video/veggie/陳薇巧-以茹素醇香生活.png",
+            "video":"http://jingsizen.com/video/veggie/陳薇巧-以茹素醇香生活.mp4"
+            },
+            {
+            "title":"施振榮-茹素養生蘊藏奇妙因緣",
+            "img" : "http://jingsizen.com/video/veggie/名人蔬食.png",
+            "video":"http://jingsizen.com/video/veggie/施振榮-茹素養生蘊藏奇妙因緣.mp4"
+            },
+            {
+            "title":"名人蔬食-陳毓襄-相信蔬食可以提升音樂靈性",
+            "img" : "http://jingsizen.com/video/veggie/名人蔬食.png",
+            "video":"http://jingsizen.com/video/veggie/名人蔬食-陳毓襄-相信蔬食可以提升音樂靈性.mp4"
+            },
+            {
+            "title":"素食行者",
+            "img" : "http://jingsizen.com/video/veggie/素食行者.png",
+            "video":"http://jingsizen.com/video/veggie/素食行者.mp4"
+            },
+            {
+            "title":"生命的故事-草食動物-游美雲",
+            "img" : "http://jingsizen.com/video/生命的故事-草食動物-游美雲.png",
+            "video":"http://jingsizen.com/video/生命的故事-草食動物-游美雲.mp4"
+            },
+            {
+            "title":"改變自己-王運敬師兄-以慈修身-善入佛慧",
+            "img" : "http://jingsizen.com/video/改變自己-王運敬師兄.png",
+            "video":"http://jingsizen.com/video/改變自己-王運敬師兄.mp4"
+            },
+            {
+            "title":"腸樂我淨-素無量心-王本榮執行長-黃思浩師兄-凌宛琪師姊",
+            "img" : "http://jingsizen.com/video/veggie/腸樂我淨-素無量心-王本榮執行長-黃思浩師兄-凌宛琪師姊.png",
+            "video":"http://jingsizen.com/video/veggie/腸樂我淨-素無量心-王本榮執行長-黃思浩師兄-凌宛琪師姊.mp4"
+            },
+            {
+            "title":"吃素兩年的轉變-倪晨曦",
+            "img" : "http://jingsizen.com/video/veggie/吃素兩年的轉變-倪晨曦.png",
+            "video":"http://jingsizen.com/video/veggie/吃素兩年的轉變-倪晨曦.mp4"
+            },
+            {
+            "title":"素食與健康-地球-心靈-林俊龍",
+            "img" : "http://jingsizen.com/video/veggie/素食與健康-地球-心靈-林俊龍.png",
+            "video":"http://jingsizen.com/video/veggie/素食與健康-地球-心靈-林俊龍.mp4"
+            },
+            {
+            "title":"刘德华吃素食分享经验-模范父亲每天送女儿上学-鲁豫有约",
+            "img" : "http://jingsizen.com/video/veggie/刘德华吃素食.png",
+            "video":"http://jingsizen.com/video/veggie/刘德华吃素食分享经验-模范父亲每天送女儿上学-鲁豫有约.mp4"
+            },
+            {
+            "title":"做素食者5大原因",
+            "img" : "http://jingsizen.com/video/veggie/做素食者5大原因.png",
+            "video":"http://jingsizen.com/video/veggie/做素食者5大原因.mp4"
+            },
+            {
+            "title":"为什么热爱肉的我开始吃素? 健康-人道-环境-灵性",
+            "img" : "http://jingsizen.com/video/veggie/为什么热爱肉的我开始吃素.png",
+            "video":"http://jingsizen.com/video/veggie/为什么热爱肉的我开始吃素.mp4"
+            },
+            {
+            "title":"塔香豆包-時蔬燴丸子",
+            "img" : "http://jingsizen.com/img/蔬果生活誌.png",
+            "video":"http://jingsizen.com/video/veggie/塔香豆包-時蔬燴丸子.mp4"
+            },
+            {
+            "title":"素食料理-紅燒麵",
+            "img" : "http://jingsizen.com/img/蔬果生活誌.png",
+            "video":"http://jingsizen.com/video/veggie/素食料理-紅燒麵.mp4"
+            },
+            {
+            "title":"蔬果生活誌-花蓮老屋藏美味",
+            "img" : "http://jingsizen.com/img/蔬果生活誌.png",
+            "video":"http://jingsizen.com/video/veggie/蔬果生活誌-花蓮老屋藏美味.mp4"
+            }
+        ]
+    }
+}

@@ -60,15 +60,15 @@ var data_nav = [
     {
         "title" : "大爱知音",
         "childs" : [
-            {"link" : "life-wisdom.html", "oldLink" : "life-wisdom.html", "title" : "人间菩提"},
-            {"link" : "daairadioalbums.html", "oldLink" : "daairadioalbums.html", "title" : "真心看世界"},
-            {"link" : "daairadioselections.html", "oldLink" : "daairadioselections.html", "title" : "大爱节目荟萃"},
-            {"link" : "master-journal.html", "oldLink" : "master-journal.html", "title" : "衲履足跡"},
-            {"link" : "veggie.html", "oldLink" : "veggie.html", "title" : "蔬食养生"}
+            {"link" : "def.html?id=37", "oldLink" : "life-wisdom.html", "title" : "人间菩提"},
+            {"link" : "def.html?id=38", "oldLink" : "daairadioalbums.html", "title" : "真心看世界"},
+            {"link" : "def.html?id=39", "oldLink" : "daairadioselections.html", "title" : "大爱节目荟萃"},
+            {"link" : "def.html?id=40", "oldLink" : "master-journal.html", "title" : "衲履足跡"},
+            {"link" : "def.html?id=41", "oldLink" : "veggie.html", "title" : "蔬食养生"}
         ]
     },
-    {"link" : "garden.html", "oldLink" : "garden.html", "title" : "禅林百家"},
-    {"link" : "contact.html", "oldLink" : "contact.html", "title" : "联系与交流"}
+    {"link" : "def.html?id=42", "oldLink" : "garden.html", "title" : "禅林百家"},
+    {"link" : "about.html", "oldLink" : "contact.html", "title" : "联系与交流"}
 ];
 
 

@@ -1,0 +1,83 @@
+{
+    "title" : "人间菩提",
+    "desc" : "<div style='text-align:left'>一年365天，每天12分钟， 证严法师以佛心应世事，结合社会脉动、全球趋势，从后山看世界。 期待您阅卷/恭听汲取师父法髓，深刻自己的生命，丰富人生的内涵，心宽念纯，法喜绵延，福慧圆满。</div>",
+    "headimg" : "http://jingsizen.com/img/master-jssutra.jpg",
+    "list" : {
+        "type" : "videoList1",
+        "info" : [
+            {
+                "title": "20230219慈悲喜捨恆願行",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230219慈悲喜捨恆願行.mp4"
+            }, {
+                "title": "20230218福慧平行步踏實",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230218福慧平行步踏實.mp4"
+            }, {
+                "title": "20230217合和互協聚大愛",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230217合和互協聚大愛.mp4"
+            }, {
+                "title": "20230216廣邀聚善繫福緣",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230216廣邀聚善繫福緣.mp4"
+            }, {
+                "title": "20230215馳援膚慰無國界",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230215馳援膚慰無國界.mp4"
+            }, {
+                "title": "20230214愛如湧泉情相伴",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230214愛如湧泉情相伴.mp4"
+            }, {
+                "title": "20230213雲集眾力救急難",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230213雲集眾力救急難.mp4"
+            }, {
+                "title": "20230212普度眾生啟慈航",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230212普度眾生啟慈航.mp4"
+            }, {
+                "title": "20230211菩提行願共善緣",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230211菩提行願共善緣.mp4"
+            }, {
+                "title": "20230209福慧行善轉善法",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230209福慧行善轉善法.mp4"
+            }, {
+                "title": "20230208厚愛長情護人間",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230208厚愛長情護人間.mp4"
+            }, {
+                "title": "20230207緬懷典範警無常",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230207緬懷典範警無常.mp4"
+            }, {
+                "title": "20230206善道正法代相傳",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230206善道正法代相傳.mp4"
+            }, {
+                "title": "20230205 厚植善根識轉智",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230205 厚植善根識轉智.mp4"
+            }, {
+                "title": "20230204善愛護生祈太平",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230204善愛護生祈太平.mp4"
+            }, {
+                "title": "20230203法喜樂融互度化",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230203法喜樂融互度化.mp4"
+            }, {
+                "title": "20230202寰宇慈濟愛相連",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230202寰宇慈濟愛相連.mp4"
+            }, {
+                "title": "20230201同舟共渡入法華",
+                "img": "http://jingsizen.com/img/人间菩提.png",
+                "video": "http://jingsizen.com/lifew02/20230201同舟共渡入法華.mp4"
+            }
+        ]
+    }
+}

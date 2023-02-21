@@ -1,0 +1,72 @@
+{
+    "title" : "真心看世界",
+    "desc" : "<div style='text-align:left'></div>",
+    "headimg" : "http://jingsizen.com/img/trueheart1.png",
+    "list" : {
+        "type" : "mp3GroupList1",
+        "info" : [{
+            "groupTitle": "2023/02/18 节目更新",
+            "list": [{
+                "title": "真心看世界-募心募愛-援助土耳其",
+                "video": "http://jingsizen.com/audio/23-q1/真心看世界-募心募愛-援助土耳其.mp3"
+            }]
+        }, {
+            "groupTitle": "2023/02/12 节目更新",
+            "list": [{
+                "title": "2022衲履足跡春之卷6您相信因果嗎",
+                "video": "http://jingsizen.com/audio/23-q1/2022衲履足跡春之卷6您相信因果嗎.mp3"
+            }, {
+                "title": "2022善惡拔河-繫於一念",
+                "video": "http://jingsizen.com/audio/23-q1/善惡拔河-繫於一念.mp3"
+            }]
+        }, {
+            "groupTitle": "2023/02/05 节目更新",
+            "list": [{
+                "title": "真心看世界-什麼是大愛",
+                "video": "http://jingsizen.com/audio/23-q1/真心看世界-什麼是大愛.mp3"
+            }, {
+                "title": "真心看世界-北迴南迴送來的菩薩",
+                "video": "http://jingsizen.com/audio/23-q1/真心看世界-北迴南迴送來的菩薩.mp3"
+            }, {
+                "title": "2022衲履足跡春之卷5人心合隨處都有法",
+                "video": "http://jingsizen.com/audio/23-q1/2022衲履足跡春之卷5人心合隨處都有法.mp3"
+            }]
+        }, {
+            "groupTitle": "2023/01/29 节目更新",
+            "list": [{
+                "title": "2022衲履足跡春之卷3你想做的事-做到了嗎",
+                "video": "http://jingsizen.com/audio/23-q1/2022衲履足跡春之卷3你想做的事-做到了嗎.mp3"
+            }, {
+                "title": "真心看世界-有慈濟真安心",
+                "video": "http://jingsizen.com/audio/23-q1/真心看世界-有慈濟真安心.mp3"
+            }, {
+                "title": "真心看世界-把心翻轉一下",
+                "video": "http://jingsizen.com/audio/23-q1/真心看世界-把心翻轉一下.mp3"
+            }, {
+                "title": "真心看世界-生生不息的希望",
+                "video": "http://jingsizen.com/audio/23-q1/真心看世界-生生不息的希望.mp3"
+            }]
+        }, {
+            "groupTitle": "2023/01/15 节目更新",
+            "list": [{
+                "title": "2022衲履足跡春之卷2問佛八分命",
+                "video": "http://jingsizen.com/audio/23-q1/2022衲履足跡春之卷2問佛八分命.mp3"
+            }, {
+                "title": "真心看世界-五毛錢的效應",
+                "video": "http://jingsizen.com/audio/23-q1/真心看世界-五毛錢的效應.mp3"
+            }, {
+                "title": "微小如我-造福世界",
+                "video": "http://jingsizen.com/audio/23-q1/微小如我-造福世界.mp3"
+            }]
+        }, {
+            "groupTitle": "2023/01/08 节目更新",
+            "list": [{
+                "title": "2022衲履足跡春之卷1春回大地祈安康",
+                "video": "http://jingsizen.com/audio/23-q1/2022衲履足跡春之卷1春回大地祈安康.mp3"
+            }, {
+                "title": "真心看世界-伴我飛翔的許豈逢",
+                "video": "http://jingsizen.com/audio/23-q1/真心看世界-伴我飛翔的許豈逢.mp3"
+            }]
+        }]
+    }
+}

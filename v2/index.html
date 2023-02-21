@@ -5,11 +5,15 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="http://JingSiZen.com/" />
-    <title>静心思惟</title>
+      <title>静心思惟</title>
 	<meta name="description" content="静心思惟">
-    <link href="css/bootstrap.min.css?v=5" rel="stylesheet">
-    <link href="css/modern-business.css?v=5" rel="stylesheet">
-    <link href="font-awesome/css/font-awesome.min.css?v=5" rel="stylesheet" type="text/css">
+    <link rel="icon" href="img/favicon.ico">
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/modern-business.css" rel="stylesheet">
+    <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <link href="lib/videojs/css/video-js.css" rel="stylesheet" />
 
     <link href="css/main.css?v=5" rel="stylesheet">
 </head>
@@ -18,47 +22,251 @@
     <!-- Navigation -->
     <script src="data/nav.js?v=5"></script>
 
+
     <!-- Page Content -->
     <div class="container">
-		<div class="row products">
-            <div class="thumbnail">
-                <img src="img/3wishes.jpeg" alt="">
-                <h4>证严法师的三个愿望</h4>
-                <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;祈求「净化人心、社会祥和、天下无灾难。」是证严法师年年、月月、日日、时时，恒存的愿力与使命。</p>
-                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为了达到这样的人间净土，法师善导大众心存菩萨大爱，将教法实践于生活，并带动付出无求同时感恩的人文风气。</p>
-                <p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;人人心灵回归真善美，欢喜投入善行，就能启发善效应，社会自然祥和；人人都能正向思考，一言一行为天地聚福，天下自然无灾。</p>
+
+
+        <article class="art-box">
+
+            <div class="art-banner">
+                <img data-id="headimg" alt="" src="http://jingsizen.com/img/3wishes.jpeg">
             </div>
 
-            <h5>证严法师讲静心思惟</h5>
-            <video width="320" height="240" poster="video/静心思惟.png" controls> <source src="video/静心思惟6min.mp4" type="video/mp4"></video>     
-            <p>静心思惟，也就是平常说的一个字：禅。禅听起来好像很玄，但是我们说禅这个字其实就是让心静下来，正确思惟，就叫做静心思惟。</p>	
-            <p>佛陀通过静心思惟把所有的烦恼境界都拨开了。连呼吸都与天地的呼吸合而为一，与宇宙汇合，成为大生命。达到了心包太虚，量周沙界的开悟境界。</p>	
-            <p>禅定就是在生活中时常自我警惕，而且好好的静心思惟。要用心，要好好的把握人生，多造福。	</p>	
+            <div class="hd">
+                <h2 data-id="title">证严法师的三个愿望</h2>
+                <p data-id="desc">
+                    祈求「净化人心、社会祥和、天下无灾难。」是证严法师年年、月月、日日、时时，恒存的愿力与使命。<br><br>为了达到这样的人间净土，法师善导大众心存菩萨大爱，将教法实践于生活，并带动付出无求同时感恩的人文风气。<br><br>人人心灵回归真善美，欢喜投入善行，就能启发善效应，社会自然祥和；人人都能正向思考，一言一行为天地聚福，天下自然无灾。
+                </p>
+            </div>
 
-            <br> 
-			
-            <li> &nbsp;<a href="https://mp.weixin.qq.com/s/eDVOIr0uELjlLkFZI6t_YQ">证严法师的每一天</a></li>
-            <li> &nbsp;<a href="https://mp.weixin.qq.com/s/SaAyJK7XBUAKpVswX25ebA">证严法师以感恩心面对辛苦</a></li>
+            <div class="hd">
+                <h2 data-id="title">证严法师讲静心思惟</h2>
+                <div class="list-box row" data-id="list" style="padding: 0;">
+                    <div class="col-sm-12 col-md-12"><div class="item">
+                        <div class="img to-play" data-type="mp4" style="background-image: url(http://jingsizen.com/video/静心思惟.png);"><div class="play-btn"><i class="fa fa-play-circle-o"></i></div></div>
+                    </div></div>
+                </div>
 
+                <p data-id="desc" style="text-align:left">
+                    静心思惟，也就是平常说的一个字：禅。禅听起来好像很玄，但是我们说禅这个字其实就是让心静下来，正确思惟，就叫做静心思惟。<br><br>佛陀通过静心思惟把所有的烦恼境界都拨开了。连呼吸都与天地的呼吸合而为一，与宇宙汇合，成为大生命。达到了心包太虚，量周沙界的开悟境界。<br><br>禅定就是在生活中时常自我警惕，而且好好的静心思惟。要用心，要好好的把握人生，多造福。
+                </p>
+            </div>
+
+
+        </article>
+
+        <div class="video-show">
+            <div class="mode"></div>
+            <div class="info">
+                <video id="myvideo" class="video-js vjs-default-skin" controls width="1600" height="900" ></video>
+                <audio id="myaudio" class="video-js vjs-default-skin" controls width="1600" height="900" ></audio>
+            </div>
         </div>
+        <style>
+            .video-show {
+                display: none;
+                position: fixed;
+                left: 0;
+                right: 0;
+                top: 0;
+                bottom: 0;
+                z-index: 9999;
+            }
+            .video-show .mode {
+                width: 100%;
+                height: 100%;
+                background: rgba(0,0,0,0.8);
+                z-index: 1;
+            }
+            .video-show .info {
+                position: absolute;
+                left: 50%;
+                top: 50%;
+                transform: translate(-50%, -50%);
+                /* background: #fff; */
+                /* border-radius: 10px; */
+                /* padding: 10px; */
+            }
+            .video-show .video-js {
+                max-width: 80vw;
+                max-height: 45vw;
+            }
+
+            /* mp3 的样式 */
+            .video-show.mp3 {
+                top: auto;
+                /* height: 60px; */
+                height: 60px;
+                overflow: hidden;
+            }
+            .video-show.mp3 .info {
+                top: auto;
+                left: 0;
+                bottom: 0;
+                transform: none;
+            }
+            .video-show.mp3 .video-js {
+                width: 100vw;
+                max-width: 100%;
+            }
+        </style>
+
+
     </div>
     <!-- /.container -->
-    
+
     <!-- Footer -->
     <script src="data/footer.js?v=5"></script>
-    
+
 
     <!-- jQuery -->
-    <script src="js/jquery.js?v=5"></script>
+    <script src="js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js?v=5"></script>
+    <script src="js/bootstrap.min.js"></script>
 
-    <!-- Script to Activate the Carousel -->
+    <script src="lib/videojs/js/video.min.js"></script>
+    <script src="lib/videojs/js/videojs-playlist.min.js"></script>
+
+
+
     <script>
-    $('.carousel').carousel({
-        interval: 5000 //changes the speed
-    })
+        (function ($) {
+
+            // $.getUrlParam = function (name) {
+            //     var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+            //     var r = window.location.search.substr(1).match(reg);
+            //     if (r != null) return unescape(r[2]); return null;
+            // }
+
+            // // 根据id读数据
+            // let id  = $.getUrlParam('id');
+            // // console.log(id);
+            // if (id > 0) {
+            //     $.ajax({
+            //         type: "get",
+            //         url: "data/data."+id+".json",
+            //         // dataType: "json",
+            //         async: true,
+            //         success: function(data) {
+            //             insertData(data);
+            //         },
+            //         error: function(e) {
+            //             goback();
+            //         }
+            //     });
+
+            // } else {
+            //     goback();
+            // }
+
+
+            // function goback () {
+            //     Location.href('/');
+            // }
+
+
+
+            var videoList = [];
+            var player = {};
+            var playIndex = 0;
+
+
+            // $('[data-id="headimg"]').attr('src', 'http://jingsizen.com/img/3wishes.jpeg');
+            // $('[data-id="title"]').text('证严法师的三个愿望');
+            // $('[data-id="desc"]').html('祈求「净化人心、社会祥和、天下无灾难。」是证严法师年年、月月、日日、时时，恒存的愿力与使命。<br><br>为了达到这样的人间净土，法师善导大众心存菩萨大爱，将教法实践于生活，并带动付出无求同时感恩的人文风气。<br><br>人人心灵回归真善美，欢喜投入善行，就能启发善效应，社会自然祥和；人人都能正向思考，一言一行为天地聚福，天下自然无灾。');
+
+            // list_html = '\
+            // <div class="col-sm-12 col-md-12"><div class="item">\
+            //     <div class="img to-play" data-type="mp4" style="background-image: url(http://jingsizen.com/video/静心思惟.png);"><div class="play-btn"><i class="fa fa-play-circle-o"></i></div></div>\
+            // </div></div>\
+            // ';
+            // $('[data-id="list"]').append(list_html)
+
+            videoList.push({
+                sources: [{
+                    src: 'http://jingsizen.com/video/静心思惟6min.mp4',
+                    type: 'video/mp4'
+                }],
+                poster: 'http://jingsizen.com/video/静心思惟.png'
+            });
+            // 视频播放器
+            if (videoList.length > 0) {
+                createPlayer('video');
+                
+            }
+
+
+
+
+
+
+
+            // 创建播放器
+            function createPlayer(type) {
+                if (type == 'video') {
+                    $('#myaudio').hide();
+                    player = videojs(document.querySelector('#myvideo'), { inactivityTimeout: 0 });
+                } else if (type == 'audio') {
+                    $('#myvideo').hide();
+                    player = videojs(document.querySelector('#myaudio'), { inactivityTimeout: 0 });
+                }
+
+                try {
+                player.volume(0);
+                // 音量调整
+                player.volume(0.5);
+                } catch (e) {}
+
+                player.playlist(videoList);
+
+                player.on('ended', function () {
+                    player.playlist.next();
+                    // player.play();
+                })
+
+            }
+
+            // mp3播放
+            $(document).on('click', '[data-type="mp3"]', function() {
+                // $('[data-type="mp3"]').removeClass('active');
+                // $(this).addClass('avtive');
+                $('.video-show').attr('class','video-show');
+                $('.video-show').addClass('mp3');
+
+                playIndex = parseInt($(this).attr("data-i"));
+                player.playlist.currentItem(playIndex)
+                $('.video-show').show();
+                player.play();
+
+            });
+
+
+            // mp4播放
+            $(document).on('click', '[data-type="mp4"]', function() {
+                playIndex = parseInt($(this).attr("data-i"));
+                // console.log(player, index);
+                player.playlist.currentItem(playIndex)
+                $('.video-show').show();
+                player.play();
+            });
+
+            // link跳转
+            $(document).on('click', '[data-type="href"]', function() {
+                let href = $(this).attr("data-href");
+                console.log(href);
+                if (href) window.open(href);
+            });
+
+            // 模态窗消失时，关闭视频    
+            $(document).on('click', '.video-show .mode', function() {
+                $('.video-show').hide();
+                player.pause();
+            });
+
+        })(jQuery);
+
     </script>
 
 </body>

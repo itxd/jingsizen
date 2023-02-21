@@ -1,0 +1,84 @@
+{
+    "title" : "大爱节目荟萃",
+    "desc" : "<div style='text-align:left'></div>",
+    "headimg" : "http://jingsizen.com/img/bluesky1.png",
+    "list" : {
+        "type" : "mp3GroupList1",
+        "info" : [{
+            "groupTitle": "2023/02/18 节目更新",
+            "list": [{
+                "title": "愛灑人間-因緣果報",
+                "video": "http://jingsizen.com/audio/23-q1/愛灑人間-因緣果報.mp3"
+            }]
+        }, {
+            "groupTitle": "2023/02/12 节目更新",
+            "list": [{
+                "title": "愛灑人間-榮董大願力",
+                "video": "http://jingsizen.com/audio/23-q1/愛灑人間-榮董大願力.mp3"
+            }, {
+                "title": "大愛知音-綠色和平吃出健康",
+                "video": "http://jingsizen.com/audio/23-q1/大愛知音-綠色和平吃出健康.mp3"
+            }]
+        }, {
+            "groupTitle": "2023/02/05 节目更新",
+            "list": [{
+                "title": "愛灑人間-成功的好人",
+                "video": "http://jingsizen.com/audio/23-q1/愛灑人間-成功的好人.mp3"
+            }, {
+                "title": "洛城大愛百寶箱_5",
+                "video": "http://jingsizen.com/audio/23-q1/洛城大愛百寶箱_5.mp3"
+            }, {
+                "title": "2022衲履足跡春之卷5人心合隨處都有法",
+                "video": "http://jingsizen.com/audio/23-q1/2022衲履足跡春之卷5人心合隨處都有法.mp3"
+            }]
+        }, {
+            "groupTitle": "2023/01/29 节目更新",
+            "list": [{
+                "title": "愛灑人間-生命-慧命",
+                "video": "http://jingsizen.com/audio/23-q1/愛灑人間-生命-慧命.mp3"
+            }, {
+                "title": "愛灑人間-愛的能量",
+                "video": "http://jingsizen.com/audio/23-q1/愛灑人間-愛的能量.mp3"
+            }, {
+                "title": "洛城大愛百寶箱_4",
+                "video": "http://jingsizen.com/audio/23-q1/洛城大愛百寶箱_4.mp3"
+            }]
+        }, {
+            "groupTitle": "2023/01/15 节目更新",
+            "list": [{
+                "title": "微小如我-造福世界",
+                "video": "http://jingsizen.com/audio/23-q1/微小如我-造福世界.mp3"
+            }, {
+                "title": "愛灑人間-穩定就學專案",
+                "video": "http://jingsizen.com/audio/23-q1/愛灑人間-穩定就學專案.mp3"
+            }, {
+                "title": "真心看世界-五毛錢的效應",
+                "video": "http://jingsizen.com/audio/23-q1/真心看世界-五毛錢的效應.mp3"
+            }, {
+                "title": "洛城大愛百寶箱1",
+                "video": "http://jingsizen.com/audio/23-q1/洛城大愛百寶箱1.mp3"
+            }, {
+                "title": "靜思妙蓮華讀書會-方便品第二399",
+                "video": "http://jingsizen.com/audio/23-q1/靜思妙蓮華讀書會-方便品第二399.mp3"
+            }, {
+                "title": "脊髓損傷者新生命的推手-林進興董事長",
+                "video": "http://jingsizen.com/audio/23-q1/脊髓損傷者新生命的推手-林進興董事長.mp3"
+            }]
+        }, {
+            "groupTitle": "2023/01/08 节目更新",
+            "list": [{
+                "title": "2022衲履足跡春之卷1春回大地祈安康",
+                "video": "http://jingsizen.com/audio/23-q1/2022衲履足跡春之卷1春回大地祈安康.mp3"
+            }, {
+                "title": "真心看世界-伴我飛翔的許豈逢",
+                "video": "http://jingsizen.com/audio/23-q1/真心看世界-伴我飛翔的許豈逢.mp3"
+            }, {
+                "title": "慈濟世界愛在洛城_1231",
+                "video": "http://jingsizen.com/audio/23-q1/慈濟世界愛在洛城_1231.mp3"
+            }, {
+                "title": "愛灑人間-新芽獎學金與長者關懷",
+                "video": "http://jingsizen.com/audio/23-q1/愛灑人間-新芽獎學金與長者關懷.mp3"
+            }]
+        }]
+    }
+}
